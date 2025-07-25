@@ -1,0 +1,828 @@
+,total functional wiring,characteristic length,average node degree,argmax node degree,binarized average clustering,density,binarized small-worldness,max node betweenness,argmax node betweenness,label
+0,2420.934,1.223,41.7402,Right Precuneus,0.87,0.777,1.1074,0.034,Right Middle Cingulate Cortex,1
+1,1902.912,1.283,32.8088,Right Lingual Gyrus,0.821,0.718,1.1436,0.0267,Right Middle Cingulate Cortex,1
+2,2571.152,1.181,44.3302,Right Hippocampus,0.893,0.819,1.1006,0.0316,Left Hippocampus,1
+3,1503.118,1.409,25.9158,Left Cerebellum,0.693,0.591,1.1851,0.0316,Right Thalamus,1
+4,2989.882,1.13,51.5497,Right Inferior Temporal Gyrus,0.921,0.87,1.0601,0.0381,Left Cerebellum,1
+5,1707.558,1.332,29.4406,Right Middle Temporal Gyrus,0.765,0.668,1.1563,0.0394,Right Middle Temporal Gyrus,1
+6,2744.186,1.124,47.3135,Right Lingual Gyrus,0.918,0.876,1.0554,0.0214,Left Superior Frontal Gyrus,1
+7,3370.119,1.073,58.1055,Left Precentral Gyrus,0.959,0.927,1.0283,0.0235,Cerebellar Vermis,1
+8,1577.914,1.395,27.2054,Right Lingual Gyrus,0.716,0.605,1.1917,0.023,Left Thalamus,1
+9,1211.84,1.498,20.8938,Right Lingual Gyrus,0.608,0.502,1.2318,0.022,Right Lingual Gyrus,1
+10,2120.762,1.288,36.5649,Right Cerebellum,0.819,0.712,1.1448,0.0345,Right Superior Temporal Gyrus,1
+11,2317.292,1.204,39.9533,Right Cerebellum,0.857,0.796,1.0845,0.0305,Right Cerebellum,1
+12,1951.544,1.312,33.6473,Right Lingual Gyrus,0.8,0.688,1.16,0.0197,Right Cerebellum,1
+13,2880.292,1.123,49.6602,Left Middle Temporal Gyrus,0.917,0.877,1.0276,0.0238,Left Middle Temporal Gyrus,1
+14,992.452,1.559,17.1112,Right Lingual Gyrus,0.579,0.443,1.2867,0.0264,Left Cerebellum,1
+15,2381.292,1.201,41.0568,Left Middle Occipital Gyrus,0.859,0.799,1.0811,0.0285,Left Middle Occipital Gyrus,1
+16,2105.099,1.254,36.2948,Right Lingual Gyrus,0.84,0.746,1.1321,0.0319,Right Inferior Temporal Gyrus,1
+17,2551.634,1.199,43.9937,Right Middle Cingulate Cortex,0.884,0.801,1.0964,0.0236,Left Cerebellum,1
+18,1479.25,1.427,25.5043,Right Cerebellum,0.69,0.573,1.1928,0.0326,Cerebellar Vermis,2
+19,2165.071,1.248,37.3288,Left Middle Frontal Gyrus,0.831,0.752,1.0913,0.0359,Right Cerebellum,2
+20,2544.882,1.216,43.8773,Right Lingual Gyrus,0.866,0.784,1.0928,0.0209,Right Middle Cingulate Cortex,2
+21,2124.425,1.231,36.628,Right Cerebellum,0.844,0.769,1.0826,0.0191,RightPrecentral Gyrus,2
+22,1018.597,1.558,17.562,Left Cerebellum,0.579,0.442,1.3141,0.0284,Left Cerebellum,2
+23,1827.875,1.328,31.5151,Right Cerebellum,0.788,0.672,1.1732,0.038,Right Cerebellum,2
+24,1862.831,1.317,32.1178,Left Cerebellum,0.787,0.683,1.1666,0.0304,Left Cerebellum,2
+25,3216.002,1.116,55.4483,Left Inferior Frontal Gyrus (p. Triangularis),0.913,0.884,1.0285,0.025,Left Cerebellum,2
+26,1874.193,1.308,32.3137,Right Middle Frontal Gyrus,0.796,0.692,1.1294,0.0291,Right Cerebellum,2
+27,2413.213,1.205,41.6071,Right Precuneus,0.873,0.795,1.1213,0.0381,Cerebellar Vermis,2
+28,1396.889,1.444,24.0843,Right Lingual Gyrus,0.67,0.556,1.2126,0.0297,Right Lingual Gyrus,2
+29,2393.734,1.235,41.2713,Left Cerebellum,0.863,0.765,1.1429,0.0445,Left Cerebellum,2
+30,2672.46,1.187,46.0769,Right Middle Cingulate Cortex,0.895,0.813,1.106,0.0294,Right Middle Cingulate Cortex,2
+31,2147.986,1.26,37.0342,Right SMA,0.835,0.74,1.1163,0.0357,Right Lingual Gyrus,2
+32,1743.484,1.353,30.0601,Left Middle Occipital Gyrus,0.751,0.647,1.1597,0.0166,Right Inferior Temporal Gyrus,2
+33,1185.943,1.524,20.4473,Left Rectal Gyrus,0.601,0.476,1.2321,0.04,Left Olfactory cortex,2
+34,1387.068,1.445,23.915,Left Cerebellum,0.672,0.555,1.2198,0.0395,Right Lingual Gyrus,2
+35,3875.37,1.053,66.8167,Left Amygdala,0.972,0.947,1.0263,0.0122,Right Cerebellum,1
+36,3358.934,1.107,57.9127,Right Temporal Pole,0.935,0.893,1.0439,0.0238,Cerebellar Vermis,2
+37,2543.777,1.19,43.8582,Right Cerebellum,0.874,0.81,1.0929,0.0215,Right Cerebellum,1
+38,1041.171,1.569,17.9512,Left Middle Occipital Gyrus,0.551,0.431,1.2917,0.0273,Right Precuneus,1
+39,2677.067,1.194,46.1563,Left Middle Occipital Gyrus,0.871,0.806,1.0664,0.0232,Left Hippocampus,2
+40,2347.325,1.186,40.4711,Left Cerebellum,0.87,0.814,1.0788,0.029,Right Cerebellum,2
+41,3439.567,1.045,59.3029,Left Amygdala,0.966,0.955,1.0064,0.0125,Left Inferior Frontal Gyrus (p. Orbitalis),2
+42,1160.257,1.513,20.0044,Right Cerebellum,0.596,0.487,1.2524,0.0214,Right Cerebellum,2
+43,1613.669,1.38,27.8219,Left Superior Parietal Lobule ,0.74,0.62,1.1657,0.0377,Left Superior Parietal Lobule ,2
+44,2854.975,1.096,49.2237,Right Middle Cingulate Cortex,0.938,0.904,1.0362,0.0175,Left Olfactory cortex,2
+45,1861.751,1.315,32.0992,Right Cerebellum,0.788,0.685,1.1522,0.0261,Right Cerebellum,2
+46,3323.132,1.071,57.2954,Left Superior Temporal Gyrus,0.951,0.929,1.0346,0.0197,Right Cerebellum,2
+47,1793.799,1.329,30.9276,Left Cerebellum,0.77,0.671,1.1701,0.0301,Right SMA,2
+48,3146.242,1.077,54.2456,Right Cerebellum,0.954,0.923,1.0246,0.0136,Left Postcentral Gyrus,2
+49,1605.798,1.37,27.6862,Left Cerebellum,0.731,0.63,1.1411,0.0302,Left Superior Frontal Gyrus,2
+50,2294.278,1.216,39.5565,RightPrecentral Gyrus,0.864,0.784,1.0763,0.0375,RightPrecentral Gyrus,2
+51,2668.802,1.18,46.0138,Right Cerebellum,0.893,0.82,1.1089,0.022,Cerebellar Vermis,2
+52,2927.642,1.095,50.4766,Right Temporal Pole,0.929,0.905,1.0265,0.0154,Right Inferior Temporal Gyrus,2
+53,2762.556,1.132,47.6303,Left Cerebellum,0.913,0.868,1.0518,0.0162,Right SMA,2
+54,2081.238,1.264,35.8834,Right Middle Cingulate Cortex,0.822,0.736,1.1142,0.0371,Right Cerebellum,1
+55,3029.529,1.045,52.2333,Right Inferior Temporal Gyrus,0.969,0.955,1.0119,0.0146,Left Middle Temporal Gyrus,1
+56,1808.467,1.343,31.1805,Left Cerebellum,0.763,0.657,1.1437,0.0226,Left Cerebellum,1
+57,2006.575,1.289,34.5961,Right Cerebellum,0.801,0.711,1.1386,0.0244,Left Fusiform Gyrus,1
+58,1763.607,1.331,30.407,Left Hippocampus,0.768,0.669,1.1362,0.0564,Left Hippocampus,1
+59,1299.381,1.447,22.4031,Right Cerebellum,0.68,0.553,1.2152,0.0293,Right Cerebellum,1
+60,2625.762,1.163,45.2718,Right Hippocampus,0.891,0.837,1.07,0.0268,Right Superior Frontal Gyrus,1
+61,1536.913,1.39,26.4985,Right Cerebellum,0.728,0.61,1.1989,0.0285,Right Superior Medial Gyrus,1
+62,2404.967,1.21,41.4649,Right Middle Cingulate Cortex,0.868,0.79,1.1031,0.0386,Left Hippocampus,1
+63,1263.531,1.479,21.785,Right Mid Orbital Gyrus,0.631,0.521,1.1858,0.025,Right Mid Orbital Gyrus,1
+64,1562.038,1.373,26.9317,Right Cerebellum,0.743,0.627,1.1526,0.0326,Left Superior Frontal Gyrus,1
+65,1341.995,1.451,23.1378,Left Cerebellum,0.686,0.549,1.2695,0.0288,Right Cerebellum,1
+66,3134.948,1.079,54.0508,Left Superior Frontal Gyrus,0.946,0.921,1.0319,0.0197,Left Cerebellum,1
+67,2199.744,1.239,37.9266,Right Middle Temporal Gyrus,0.841,0.761,1.1073,0.0398,Right Middle Temporal Gyrus,1
+68,1104.735,1.532,19.0472,Right Middle Occipital Gyrus,0.553,0.468,1.1885,0.0232,Left Middle Cingulate Cortex,1
+69,1301.193,1.483,22.4344,Right Precuneus,0.615,0.517,1.2104,0.0226,Right Cerebellum,1
+70,1481.572,1.435,25.5444,Right Postcentral Gyrus,0.655,0.565,1.1527,0.0314,Left Precentral Gyrus,1
+71,1774.847,1.359,30.6008,Left Precentral Gyrus,0.745,0.641,1.1646,0.0449,Right Cerebellum,1
+72,1294.584,1.475,22.3204,Left Cerebellum,0.609,0.525,1.1548,0.0223,RightPrecentral Gyrus,1
+73,2002.848,1.281,34.5319,Right Cerebellum,0.799,0.719,1.0917,0.0178,Right Superior Occipital Gyrus,1
+74,1456.713,1.436,25.1157,Right Cerebellum,0.649,0.564,1.1525,0.0229,Right Cerebellum,1
+75,2000.048,1.316,34.4836,Right Middle Cingulate Cortex,0.764,0.684,1.1156,0.0217,Left Insula Lobe,1
+76,1232.733,1.491,21.254,Left ParaHippocampal Gyrus,0.607,0.509,1.1957,0.0189,Right Cerebellum,1
+77,1948.847,1.323,33.6008,Right Cerebellum,0.782,0.677,1.134,0.0307,Right Middle Cingulate Cortex,1
+78,1807.039,1.334,31.1558,Left Fusiform Gyrus,0.745,0.666,1.1055,0.0355,Right Hippocampus,1
+79,1087.89,1.535,18.7567,Right Superior Medial Gyrus,0.552,0.465,1.1755,0.0194,Left Anterior Cingulate Cortex,1
+80,1827.322,1.308,31.5056,Left Temporal Pole,0.777,0.692,1.118,0.0211,Right Fusiform Gyrus,2
+81,1306.122,1.48,22.5193,Right Middle Cingulate Cortex,0.621,0.52,1.1852,0.023,Right Precuneus,2
+82,1629.777,1.375,28.0996,Right Middle Cingulate Cortex,0.701,0.625,1.1202,0.0267,Right Thalamus,2
+83,1235.436,1.494,21.3006,Right Mid Orbital Gyrus,0.6,0.506,1.1696,0.0241,Right Mid Orbital Gyrus,2
+84,1794.139,1.332,30.9334,Left Inferior Frontal Gyrus (p. Orbitalis),0.761,0.668,1.1425,0.0243,Right Cuneus,2
+85,3189.469,1.103,54.9909,Left Superior Temporal Gyrus,0.935,0.897,1.0486,0.0127,Left Temporal Pole,2
+86,1367.483,1.447,23.5773,Right Cerebellum,0.639,0.553,1.1683,0.0249,Left Superior Medial Gyrus,2
+87,2235.917,1.231,38.5503,Cerebellar Vermis,0.834,0.769,1.0565,0.025,Cerebellar Vermis,2
+88,1659.736,1.403,28.6161,Left Paracentral Lobule,0.698,0.597,1.1567,0.0192,Right Superior Medial Gyrus,2
+89,1171.517,1.508,20.1986,Right Cerebellum,0.59,0.492,1.2268,0.0247,Right Middle Cingulate Cortex,2
+90,1606.097,1.386,27.6913,Right Lingual Gyrus,0.705,0.614,1.1531,0.036,Left Precuneus,2
+91,2864.569,1.122,49.3891,Right Inferior Temporal Gyrus,0.912,0.878,1.0363,0.024,Right Inferior Temporal Gyrus,2
+92,2830.04,1.139,48.7938,Left Middle Temporal Gyrus,0.906,0.861,1.0627,0.0194,Right Cerebellum,2
+93,1145.439,1.522,19.7489,Left Middle Occipital Gyrus,0.593,0.478,1.2651,0.0255,Left Middle Occipital Gyrus,1
+94,1298.612,1.48,22.3899,Right Middle Cingulate Cortex,0.67,0.521,1.3008,0.04,Right Middle Cingulate Cortex,1
+95,1259.007,1.474,21.707,Right Middle Temporal Gyrus,0.662,0.526,1.2777,0.0357,Left Hippocampus,1
+96,1931.144,1.3,33.2956,Left Middle Occipital Gyrus,0.788,0.7,1.1083,0.0359,Right Middle Temporal Gyrus,1
+97,1290.036,1.461,22.242,Right Cerebellum,0.661,0.539,1.2354,0.0391,Right Cerebellum,1
+98,1835.185,1.33,31.6411,Right Lingual Gyrus,0.773,0.67,1.1544,0.0238,Right Temporal Pole,1
+99,1840.285,1.314,31.729,Left Lingual Gyrus,0.779,0.686,1.1467,0.0194,Left Superior Parietal Lobule ,2
+100,1944.497,1.295,33.5258,Left Cerebellum,0.793,0.705,1.141,0.0275,Left Cerebellum,2
+101,1470.592,1.416,25.355,Left Hippocampus,0.717,0.584,1.2056,0.0284,Left ParaHippocampal Gyrus,2
+102,1811.596,1.338,31.2344,Left Inferior Occipital Gyrus,0.791,0.663,1.2049,0.0458,Left Inferior Occipital Gyrus,2
+103,1456.854,1.425,25.1182,Right Cerebellum,0.688,0.575,1.1915,0.0276,Right Inferior Temporal Gyrus,2
+104,1651.399,1.358,28.4724,Right Hippocampus,0.756,0.642,1.1602,0.0363,Left Cerebellum,2
+105,2853.742,1.122,49.2024,Cerebellar Vermis,0.918,0.878,1.0405,0.0285,Cerebellar Vermis,2
+106,2663.387,1.147,45.9205,Left Cerebellum,0.899,0.853,1.0511,0.0218,Left Cerebellum,2
+107,2126.856,1.245,36.6699,Left Middle Temporal Gyrus,0.847,0.755,1.1061,0.0261,Left Middle Occipital Gyrus,2
+108,1319.021,1.453,22.7417,Left Middle Temporal Gyrus,0.678,0.547,1.2432,0.0256,Left Middle Temporal Gyrus,2
+109,1836.869,1.307,31.6701,Left Precuneus,0.789,0.693,1.1244,0.0319,Left Precuneus,2
+110,1920.115,1.306,33.1054,Left Cerebellum,0.787,0.694,1.1048,0.0296,Left Hippocampus,2
+111,2247.456,1.209,38.7492,Right ParaHippocampal Gyrus,0.862,0.791,1.0729,0.0279,Right Middle Cingulate Cortex,2
+112,1650.964,1.363,28.4649,Left Lingual Gyrus,0.757,0.637,1.206,0.0265,Right Middle Cingulate Cortex,2
+113,2784.411,1.094,48.0071,Right Hippocampus,0.932,0.906,1.0289,0.0214,Right Inferior Temporal Gyrus,2
+114,1670.143,1.364,28.7956,Right Middle Cingulate Cortex,0.731,0.636,1.1742,0.0307,Right Middle Cingulate Cortex,2
+115,1499.741,1.411,25.8576,Right Middle Cingulate Cortex,0.699,0.589,1.1808,0.0247,Right Caudate Nucleus,2
+116,2138.588,1.267,36.8722,Right Cerebellum,0.834,0.733,1.1556,0.0272,Right Cerebellum,1
+117,1482.524,1.404,25.5608,Right Postcentral Gyrus,0.706,0.596,1.2001,0.0281,Left Postcentral Gyrus,1
+118,2201.651,1.281,37.9595,Right Middle Occipital Gyrus,0.835,0.719,1.1633,0.0293,Left Cerebellum,1
+119,1345.955,1.453,23.2061,Left Cerebellum,0.662,0.547,1.2165,0.0243,Left Thalamus,1
+120,1034.757,1.553,17.8406,Left Middle Frontal Gyrus,0.564,0.447,1.2848,0.0287,Right Lingual Gyrus,1
+121,1628.115,1.397,28.0709,Right Middle Cingulate Cortex,0.738,0.603,1.2341,0.0255,Right Cerebellum,1
+122,1173.335,1.526,20.2299,Right Superior Temporal Gyrus,0.588,0.474,1.2333,0.0415,Right Temporal Pole,1
+123,2471.118,1.164,42.6055,Left Middle Occipital Gyrus,0.903,0.836,1.0704,0.0182,Right Cerebellum,1
+124,2114.843,1.247,36.4628,Right Cerebellum,0.849,0.753,1.1159,0.0235,Right Cerebellum,1
+125,1112.42,1.533,19.1797,Right Middle Temporal Gyrus,0.597,0.467,1.228,0.0252,Right Inferior Temporal Gyrus,1
+126,1643.773,1.357,28.3409,RightPrecentral Gyrus,0.753,0.643,1.1628,0.0313,Right Cerebellum,1
+127,1248.707,1.46,21.5294,Right Cerebellum,0.662,0.54,1.2389,0.0346,Right Cerebellum,1
+128,1708.563,1.362,29.458,RightPrecentral Gyrus,0.76,0.638,1.1913,0.024,Right Inferior Temporal Gyrus,1
+129,2741.693,1.128,47.2706,Right Temporal Pole,0.92,0.872,1.0695,0.0201,Right Inferior Temporal Gyrus,1
+130,1911.73,1.313,32.9609,Right Postcentral Gyrus,0.8,0.687,1.1354,0.0256,Right Cerebellum,1
+131,2194.286,1.272,37.8325,Right Inferior Frontal Gyrus (p. Triangularis),0.835,0.728,1.1799,0.042,Right Superior Temporal Gyrus,1
+132,1381.784,1.451,23.8239,Right Inferior Temporal Gyrus,0.645,0.549,1.1963,0.0246,Right Inferior Temporal Gyrus,1
+133,1894.506,1.3,32.6639,Left Cerebellum,0.795,0.7,1.1579,0.0517,Left Cerebellum,1
+134,2594.299,1.173,44.7293,Right SMA,0.894,0.827,1.0668,0.0322,Right SMA,1
+135,1683.25,1.367,29.0216,Right Cerebellum,0.748,0.633,1.1548,0.0195,Right Cerebellum,2
+136,2351.58,1.216,40.5445,Right SMA,0.873,0.784,1.1231,0.0314,Right Cerebellum,2
+137,1868.939,1.338,32.2231,Left Precentral Gyrus,0.769,0.662,1.1596,0.0217,Right Middle Cingulate Cortex,2
+138,4241.178,1.047,73.1238,RightPrecentral Gyrus,0.983,0.953,1.0324,0.0133,Left Heschls Gyrus,2
+139,1171.924,1.507,20.2056,Right Temporal Pole,0.615,0.493,1.257,0.0333,Right Temporal Pole,2
+140,1681.763,1.355,28.9959,Left Middle Temporal Gyrus,0.746,0.645,1.1787,0.0256,Left Middle Temporal Gyrus,2
+141,3297.92,1.108,56.8607,Right Cerebellum,0.939,0.892,1.0615,0.0157,Left Cerebellum,2
+142,1387.166,1.436,23.9167,Right SMA,0.689,0.564,1.2002,0.0249,Right Cerebellum,2
+143,1736.0,1.342,29.931,Left Fusiform Gyrus,0.77,0.658,1.15,0.0336,Left Fusiform Gyrus,2
+144,2264.636,1.26,39.0454,Left Cerebellum,0.845,0.74,1.1388,0.0328,Right Middle Cingulate Cortex,2
+145,2450.142,1.191,42.2438,Right Cerebellum,0.885,0.809,1.083,0.0209,Left Precentral Gyrus,2
+146,3280.264,1.127,56.5563,Left Inferior Occipital Gyrus,0.941,0.873,1.084,0.0185,Right Posterior Cingulate Cortex,2
+147,2141.465,1.246,36.9218,Left Middle Occipital Gyrus,0.843,0.754,1.1185,0.0397,Left Middle Occipital Gyrus,2
+148,1772.912,1.326,30.5674,Right Paracentral Lobule,0.807,0.674,1.2263,0.0296,Right Hippocampus,1
+149,1017.986,1.558,17.5515,Right Cerebellum,0.623,0.445,1.382,0.0316,Right Middle Cingulate Cortex,1
+150,783.688,1.656,13.5119,Right Paracentral Lobule,0.562,0.354,1.5606,0.0349,Cerebellar Vermis,1
+151,1351.43,1.448,23.3005,Right Thalamus,0.678,0.553,1.201,0.034,Left Inferior Frontal Gyrus (p. Orbitalis),1
+152,1443.327,1.413,24.885,Right Cerebellum,0.745,0.588,1.2405,0.0328,Right Paracentral Lobule,1
+153,1777.368,1.371,30.6443,Left Lingual Gyrus,0.797,0.63,1.2668,0.0497,Left Cerebellum,1
+154,2540.356,1.139,43.7992,Right ParaHippocampal Gyrus,0.904,0.861,1.0492,0.0168,Right Cerebellum,1
+155,2066.72,1.267,35.6331,Right Temporal Pole,0.842,0.733,1.1464,0.0333,Right Temporal Pole,1
+156,1876.681,1.289,32.3566,Right Cerebellum,0.818,0.711,1.1601,0.0186,Right Cerebellum,1
+157,1967.247,1.255,33.918,Right Cerebellum,0.853,0.745,1.1505,0.0227,Right Inferior Temporal Gyrus,1
+158,2456.41,1.189,42.3519,Left SMA,0.899,0.811,1.1083,0.0308,Right ParaHippocampal Gyrus,1
+159,2371.931,1.174,40.8954,Right Thalamus,0.893,0.826,1.0902,0.0207,Cerebellar Vermis,1
+160,1812.641,1.327,31.2524,Right SMA,0.819,0.674,1.1988,0.0287,Right SMA,1
+161,2409.331,1.178,41.5402,Right Paracentral Lobule,0.886,0.822,1.072,0.0323,Right Inferior Temporal Gyrus,1
+162,1876.437,1.27,32.3524,Right Middle Cingulate Cortex,0.849,0.731,1.1606,0.0206,Right Cerebellum,1
+163,1463.857,1.423,25.2389,Right Hippocampus,0.729,0.579,1.2542,0.031,Left Superior Temporal Gyrus,1
+164,1958.06,1.269,33.7597,Left Middle Occipital Gyrus,0.824,0.731,1.1409,0.0275,Left Middle Occipital Gyrus,1
+165,2030.227,1.273,35.0039,Right Precuneus,0.822,0.727,1.1058,0.0291,Right Precuneus,1
+166,2369.617,1.181,40.8555,Right Cerebellum,0.905,0.819,1.1251,0.0436,Cerebellar Vermis,1
+167,3063.628,1.125,52.8212,Right Paracentral Lobule,0.933,0.875,1.0764,0.0273,Right Paracentral Lobule,1
+168,1719.191,1.316,29.6412,Right Precuneus,0.798,0.684,1.1816,0.0304,Left Middle Frontal Gyrus,1
+169,2378.776,1.218,41.0134,Right Paracentral Lobule,0.879,0.782,1.1165,0.0633,Right Cerebellum,1
+170,1628.582,1.343,28.079,Right Paracentral Lobule,0.767,0.657,1.1403,0.0523,Right Paracentral Lobule,1
+171,954.015,1.62,16.4485,Right Lingual Gyrus,0.597,0.392,1.5281,0.0357,Left Middle Temporal Gyrus,1
+172,1444.988,1.414,24.9136,Left Precentral Gyrus,0.74,0.587,1.2692,0.0223,Left Precentral Gyrus,1
+173,2439.322,1.227,42.0573,RightPrecentral Gyrus,0.869,0.774,1.1285,0.0401,Right Lingual Gyrus,1
+174,1288.039,1.464,22.2076,Right Temporal Pole,0.7,0.536,1.3322,0.0529,Right Temporal Pole,1
+175,1235.547,1.474,21.3025,RightPrecentral Gyrus,0.671,0.527,1.271,0.0384,Left Middle Occipital Gyrus,1
+176,1830.764,1.306,31.5649,Right Middle Cingulate Cortex,0.816,0.694,1.203,0.0246,Right Superior Temporal Gyrus,1
+177,1406.707,1.414,24.2536,Right Precuneus,0.744,0.589,1.2659,0.0412,Right Precuneus,1
+178,1779.275,1.303,30.6772,Right Precuneus,0.823,0.697,1.1907,0.032,Right Lingual Gyrus,1
+179,865.151,1.611,14.9164,Cerebellar Vermis,0.541,0.389,1.418,0.049,Cerebellar Vermis,1
+180,1387.585,1.439,23.9239,Left Precentral Gyrus,0.691,0.561,1.2283,0.0343,Right SMA,1
+181,2450.193,1.213,42.2447,Right Thalamus,0.868,0.787,1.1017,0.0604,Left Cerebellum,1
+182,967.541,1.588,16.6817,Right Cerebellum,0.606,0.414,1.4902,0.0355,Right Hippocampus,2
+183,859.913,1.633,14.8261,Left Precentral Gyrus,0.539,0.371,1.4619,0.0255,Left Precentral Gyrus,2
+184,2291.561,1.213,39.5097,Left Superior Frontal Gyrus,0.869,0.787,1.1028,0.0359,Right Paracentral Lobule,2
+185,2273.621,1.234,39.2004,Right SMA,0.869,0.766,1.1233,0.0456,Right SMA,2
+186,2482.736,1.172,42.8058,Right Thalamus,0.897,0.828,1.074,0.0207,Right Cerebellum,2
+187,2396.579,1.209,41.3203,Right SMA,0.883,0.791,1.0959,0.0217,Right Superior Temporal Gyrus,2
+188,962.388,1.589,16.5929,Left Precuneus,0.593,0.417,1.3972,0.0301,Right Cerebellum,2
+189,1202.387,1.495,20.7308,Right Hippocampus,0.658,0.505,1.2997,0.0253,Right Cerebellum,2
+190,1571.666,1.365,27.0977,Right Lingual Gyrus,0.766,0.635,1.1971,0.0244,Right Thalamus,2
+191,1576.137,1.389,27.1748,Right SMA,0.745,0.611,1.2068,0.0429,Right SMA,2
+192,2509.068,1.17,43.2598,Left Precentral Gyrus,0.893,0.83,1.083,0.0278,Right Cerebellum,2
+193,1299.014,1.459,22.3968,Right Superior Frontal Gyrus,0.697,0.543,1.2682,0.0285,Right Superior Frontal Gyrus,2
+194,1411.883,1.438,24.3428,Left Cerebellum,0.705,0.562,1.2517,0.0487,Left Cerebellum,2
+195,1338.901,1.437,23.0845,Right Precuneus,0.723,0.566,1.2607,0.034,Right ParaHippocampal Gyrus,2
+196,2498.282,1.148,43.0738,Right Temporal Pole,0.916,0.852,1.0903,0.0377,Right Temporal Pole,2
+197,1157.405,1.511,19.9553,Left Hippocampus,0.651,0.489,1.3249,0.0314,Right Hippocampus,2
+198,1213.582,1.491,20.9238,Right Fusiform Gyrus,0.648,0.509,1.2344,0.0491,Left Cerebellum,2
+199,2608.944,1.152,44.9818,Right Precuneus,0.915,0.848,1.0899,0.0188,Right Precuneus,2
+200,1798.184,1.314,31.0032,Right Superior Medial Gyrus,0.805,0.686,1.1906,0.0232,Left Middle Occipital Gyrus,2
+201,1163.926,1.51,20.0677,Left Precentral Gyrus,0.615,0.49,1.2512,0.033,Left Precentral Gyrus,2
+202,1762.233,1.349,30.3833,Left Precuneus,0.765,0.651,1.1605,0.0238,RightPrecentral Gyrus,2
+203,1351.38,1.449,23.2997,Left Hippocampus,0.698,0.551,1.256,0.0287,Left Cerebellum,2
+204,958.385,1.575,16.5239,Right Lingual Gyrus,0.592,0.425,1.3543,0.0311,Right Cerebellum,2
+205,920.47,1.615,15.8702,Right Middle Cingulate Cortex,0.601,0.39,1.5314,0.0366,Right Middle Cingulate Cortex,2
+206,3046.171,1.092,52.5202,RightPrecentral Gyrus,0.956,0.908,1.0502,0.0349,Left Cerebellum,2
+207,2698.328,1.162,46.5229,Right Middle Cingulate Cortex,0.898,0.838,1.0562,0.0217,Right Lingual Gyrus,2
+208,1715.476,1.378,29.5772,Right SMA,0.749,0.622,1.2049,0.0294,Right Inferior Temporal Gyrus,2
+209,2087.239,1.222,35.9869,Right Precuneus,0.861,0.778,1.1113,0.0326,Right Precuneus,2
+210,1094.576,1.546,18.872,Left Middle Occipital Gyrus,0.631,0.457,1.3401,0.0377,Right Cerebellum,2
+211,823.62,1.626,14.2004,Left Hippocampus,0.549,0.377,1.4338,0.0351,Right Lingual Gyrus,2
+212,1871.328,1.3,32.2643,Left Cerebellum,0.816,0.7,1.1685,0.0316,Right Cerebellum,2
+213,1976.921,1.307,34.0848,Right Middle Temporal Gyrus,0.804,0.693,1.1358,0.0352,Right Middle Temporal Gyrus,2
+214,2365.5,1.204,40.7845,Left Lingual Gyrus,0.878,0.796,1.1228,0.0268,Right Middle Cingulate Cortex,2
+215,907.729,1.608,15.6505,Right Superior Parietal Lobule ,0.568,0.395,1.4181,0.0499,Right Precuneus,2
+216,1328.151,1.444,22.8992,Right Cerebellum,0.704,0.556,1.2872,0.0449,Right Cerebellum,2
+217,2262.726,1.203,39.0125,Left Cerebellum,0.878,0.797,1.1191,0.033,Left Cerebellum,2
+218,2731.332,1.206,47.0919,Right Temporal Pole,0.889,0.794,1.122,0.0453,Right Temporal Pole,2
+219,1509.314,1.419,26.0227,Right Cerebellum,0.731,0.582,1.2674,0.0389,Right Temporal Pole,2
+220,3562.555,1.082,61.4234,Right SMA,0.96,0.918,1.041,0.0159,Left Cerebellum,2
+221,948.56,1.588,16.3545,Right Calcarine Gyrus,0.631,0.417,1.4682,0.0427,Left Precuneus,2
+222,2692.409,1.117,46.4208,Right Temporal Pole,0.941,0.883,1.0669,0.0172,Right Temporal Pole,2
+223,1393.347,1.433,24.0232,Left Superior Frontal Gyrus,0.691,0.567,1.1757,0.043,Left Inferior Temporal Gyrus,2
+224,2905.245,1.117,50.0904,Right SMA,0.932,0.883,1.046,0.0256,Cerebellar Vermis,2
+225,1093.063,1.548,18.8459,Cerebellar Vermis,0.631,0.455,1.4115,0.0453,Cerebellar Vermis,2
+226,3034.429,1.101,52.3177,Left Superior Frontal Gyrus,0.937,0.899,1.0455,0.0186,Left Cerebellum,2
+227,2714.164,1.167,46.7959,Left Middle Occipital Gyrus,0.901,0.833,1.0889,0.0197,Left Cerebellum,2
+228,1451.575,1.421,25.0272,Left Lingual Gyrus,0.71,0.579,1.2525,0.0241,Left Inferior Temporal Gyrus,2
+229,1174.889,1.544,20.2567,Left Cerebellum,0.606,0.456,1.3136,0.0259,Right Hippocampus,2
+230,1344.161,1.424,23.1752,Right Cerebellum,0.706,0.576,1.1777,0.027,RightPrecentral Gyrus,2
+231,1819.275,1.312,31.3668,Right Paracentral Lobule,0.82,0.689,1.1733,0.0304,Right Cerebellum,2
+232,2387.856,1.2,41.1699,Right Temporal Pole,0.896,0.8,1.113,0.0294,Right Cerebellum,2
+233,922.463,1.603,15.9045,Right Cerebellum,0.588,0.398,1.5009,0.0384,Right Cerebellum,2
+234,1540.67,1.399,26.5633,Right Paracentral Lobule,0.759,0.612,1.229,0.0296,Right Temporal Pole,2
+235,1986.964,1.288,34.258,Right SMA,0.813,0.712,1.1316,0.0229,Left Inferior Frontal Gyrus (p. Orbitalis),2
+236,2015.172,1.234,34.7444,Right SMA,0.85,0.767,1.1144,0.0407,Right SMA,2
+237,1345.614,1.451,23.2002,Left Middle Temporal Gyrus,0.716,0.553,1.279,0.0424,Right Superior Parietal Lobule ,2
+238,1387.76,1.436,23.9269,Right Middle Cingulate Cortex,0.713,0.564,1.2465,0.0355,Left Cerebellum,2
+239,2150.613,1.223,37.0795,Right Precuneus,0.86,0.777,1.1123,0.0304,Right ParaHippocampal Gyrus,2
+240,1676.196,1.334,28.8999,Right SMA,0.786,0.666,1.161,0.027,Left Hippocampus,2
+241,2995.035,1.141,51.6385,Right Precuneus,0.904,0.859,1.0652,0.0204,Left Cerebellum,2
+242,1327.114,1.466,22.8813,Right Middle Temporal Gyrus,0.684,0.534,1.2889,0.0314,Right Fusiform Gyrus,1
+243,2602.421,1.169,44.8693,Right Precuneus,0.9,0.831,1.0807,0.0445,Right Precuneus,1
+244,1358.414,1.449,23.4209,Right Cerebellum,0.712,0.552,1.3012,0.0365,Right Cerebellum,1
+245,2163.179,1.213,37.2962,Right Precuneus,0.862,0.787,1.0922,0.018,Left Middle Occipital Gyrus,1
+246,1512.697,1.391,26.081,Left Thalamus,0.75,0.609,1.2402,0.025,Right SMA,1
+247,1227.802,1.487,21.169,Right Cerebellum,0.672,0.513,1.2961,0.0285,Right SMA,1
+248,1297.992,1.448,22.3792,Right Cerebellum,0.709,0.552,1.2726,0.0424,Right Cerebellum,1
+249,952.346,1.596,16.4198,Right Paracentral Lobule,0.569,0.406,1.3887,0.0369,Right Paracentral Lobule,1
+250,1691.964,1.337,29.1718,Right SMA,0.787,0.663,1.1951,0.0362,Right SMA,1
+251,2018.231,1.268,34.7971,Right Middle Cingulate Cortex,0.848,0.732,1.1536,0.0279,Left Fusiform Gyrus,1
+252,2344.309,1.194,40.4191,Right Paracentral Lobule,0.886,0.806,1.1038,0.0345,Left Cerebellum,1
+253,1169.208,1.5,20.1588,Right Inferior Temporal Gyrus,0.651,0.5,1.3063,0.0322,Right Middle Cingulate Cortex,1
+254,1203.686,1.502,20.7532,Right SMA,0.669,0.498,1.3773,0.045,Right Olfactory cortex,1
+255,718.185,1.697,12.3825,Right Cerebellum,0.517,0.314,1.6552,0.0471,Left Precentral Gyrus,2
+256,1778.713,1.319,30.6675,Right Temporal Pole,0.81,0.681,1.1989,0.0334,Right SMA,2
+257,1762.724,1.345,30.3918,Right SMA,0.783,0.655,1.203,0.0233,Cerebellar Vermis,2
+258,1373.948,1.426,23.6888,Right SMA,0.72,0.575,1.2632,0.0284,Left Precentral Gyrus,2
+259,2554.377,1.136,44.041,Right Paracentral Lobule,0.927,0.864,1.0716,0.0172,Right Cerebellum,2
+260,1618.767,1.356,27.9098,Right Paracentral Lobule,0.776,0.644,1.2305,0.061,Right Paracentral Lobule,2
+261,1803.694,1.312,31.0982,Right Cerebellum,0.798,0.688,1.1663,0.0305,RightPrecentral Gyrus,2
+262,2451.73,1.21,42.2712,RightPrecentral Gyrus,0.867,0.79,1.1078,0.0143,Right Heschls Gyrus,2
+263,2322.061,1.204,40.0355,Right SMA,0.904,0.797,1.1257,0.0246,Right Thalamus,2
+264,2772.182,1.107,47.7962,Right Paracentral Lobule,0.933,0.893,1.041,0.027,Right Paracentral Lobule,2
+265,1550.035,1.389,26.7247,Right Temporal Pole,0.769,0.613,1.2564,0.0244,Left Superior Frontal Gyrus,2
+266,939.198,1.592,16.1931,Left Cerebellum,0.593,0.413,1.4522,0.0389,Right Thalamus,2
+267,1837.222,1.313,31.6762,Right Fusiform Gyrus,0.813,0.687,1.1976,0.0272,Right Middle Cingulate Cortex,2
+268,894.807,1.598,15.4277,Right Cerebellum,0.553,0.402,1.2854,0.0291,Right Cerebellum,2
+269,2180.863,1.215,37.6011,Right Middle Cingulate Cortex,0.866,0.785,1.0813,0.0442,Right Middle Cingulate Cortex,2
+270,2907.365,1.128,50.127,Right Precuneus,0.928,0.872,1.0612,0.0334,Right Cerebellum,2
+271,2160.641,1.235,37.2524,Left ParaHippocampal Gyrus,0.849,0.765,1.0871,0.0453,Left ParaHippocampal Gyrus,2
+272,2004.507,1.242,34.5605,Left Middle Temporal Gyrus,0.851,0.758,1.1301,0.0226,RightPrecentral Gyrus,2
+273,1434.265,1.44,24.7287,Left Temporal Pole,0.702,0.56,1.2613,0.0378,Right Cerebellum,2
+274,1638.142,1.342,28.2438,Left Precuneus,0.785,0.658,1.218,0.0362,Right Middle Cingulate Cortex,2
+275,1584.228,1.367,27.3143,Right Middle Cingulate Cortex,0.768,0.634,1.2124,0.0317,Right Middle Cingulate Cortex,2
+276,2013.595,1.243,34.7172,Right SMA,0.846,0.757,1.1262,0.0445,Right Middle Cingulate Cortex,2
+277,1023.208,1.564,17.6415,Right Cerebellum,0.646,0.44,1.4755,0.0401,Right Precuneus,2
+278,1432.213,1.429,24.6933,RightPrecentral Gyrus,0.74,0.572,1.3387,0.0525,RightPrecentral Gyrus,2
+279,2962.302,1.151,51.0742,Right SMA,0.925,0.849,1.0893,0.0398,Left Cerebellum,2
+280,1410.801,1.427,24.3242,Left Precuneus,0.699,0.573,1.2532,0.0371,Left Middle Occipital Gyrus,2
+281,2314.442,1.246,39.9042,Left Cerebellum,0.882,0.754,1.1687,0.033,Left Temporal Pole,2
+282,1653.32,1.348,28.5055,Right Inferior Frontal Gyrus (p. Orbitalis),0.787,0.652,1.1757,0.0345,Left Cerebellum,2
+283,3042.06,1.093,52.4493,Left Cerebellum,0.944,0.907,1.0286,0.0142,Right Temporal Pole,2
+284,2034.243,1.266,35.0732,Right Precuneus,0.847,0.734,1.1462,0.0368,Right Middle Cingulate Cortex,2
+285,3284.547,1.084,56.6301,Right Lingual Gyrus,0.945,0.916,1.0337,0.0299,Left Cerebellum,2
+286,2229.248,1.217,38.4353,Right Cerebellum,0.871,0.783,1.1156,0.0848,Right Cerebellum,2
+287,1317.977,1.451,22.7237,Left Precuneus,0.718,0.554,1.2602,0.0387,Left Precuneus,2
+288,1585.702,1.37,27.3397,Left Precuneus,0.751,0.63,1.1932,0.0336,Right Cerebellum,2
+289,911.342,1.622,15.7128,Right Cerebellum,0.587,0.389,1.4867,0.0571,Right Cerebellum,2
+290,1095.603,1.52,18.8897,Right Cerebellum,0.659,0.481,1.343,0.041,Right Cerebellum,2
+291,4081.158,1.031,70.3648,Right Cerebellum,0.988,0.969,1.0175,0.0166,Left Cerebellum,2
+292,2803.235,1.142,48.3316,Right Postcentral Gyrus,0.935,0.859,1.0964,0.0357,Right Cerebellum,1
+293,2648.584,1.155,45.6652,Right Precuneus,0.922,0.845,1.1004,0.0305,Left Cerebellum,1
+294,950.1,1.599,16.381,Right Cerebellum,0.579,0.406,1.412,0.0378,Left Cerebellum,1
+295,1437.364,1.424,24.7821,Left Precentral Gyrus,0.746,0.577,1.3436,0.0424,Right Precuneus,1
+296,2154.997,1.201,37.1551,Right Lingual Gyrus,0.862,0.799,1.0944,0.0278,Right Lingual Gyrus,1
+297,1457.644,1.437,25.1318,Right Postcentral Gyrus,0.71,0.563,1.2708,0.0497,Left Cerebellum,1
+298,1796.378,1.332,30.972,Left Superior Frontal Gyrus,0.8,0.668,1.2286,0.0549,Right Cerebellum,1
+299,3109.193,1.06,53.6068,Right Middle Cingulate Cortex,0.961,0.94,1.0286,0.0177,Right Cerebellum,1
+300,2413.211,1.222,41.6071,Right Middle Cingulate Cortex,0.881,0.779,1.1636,0.0432,Left Cerebellum,1
+301,2370.672,1.249,40.8737,RightPrecentral Gyrus,0.856,0.751,1.1553,0.0641,Right Cerebellum,1
+302,1267.373,1.46,21.8513,RightPrecentral Gyrus,0.695,0.541,1.2768,0.0337,Left Cerebellum,1
+303,2015.885,1.275,34.7566,Right Cerebellum,0.861,0.725,1.1879,0.0259,Left Middle Occipital Gyrus,1
+304,1145.987,1.527,19.7584,Right Middle Frontal Gyrus,0.678,0.475,1.414,0.058,Right Middle Temporal Gyrus,1
+305,2623.845,1.121,45.2387,Right Postcentral Gyrus,0.928,0.879,1.0513,0.0227,Left Cerebellum,1
+306,2948.019,1.126,50.8279,Left Cerebellum,0.924,0.874,1.0679,0.033,Right Cerebellum,1
+307,2081.201,1.222,35.8828,Right Temporal Pole,0.862,0.778,1.0878,0.0374,Right Temporal Pole,1
+308,949.686,1.575,16.3739,Right Cerebellum,0.602,0.426,1.3947,0.0622,Right Cerebellum,1
+309,2259.901,1.197,38.9638,Left Cerebellum,0.868,0.803,1.0918,0.0175,Right Postcentral Gyrus,1
+310,1195.093,1.49,20.6051,Right Temporal Pole,0.697,0.512,1.334,0.0493,Right Middle Cingulate Cortex,1
+311,1778.132,1.334,30.6574,Right Temporal Pole,0.783,0.666,1.1673,0.0441,Right Temporal Pole,1
+312,1603.354,1.361,27.644,Right Precuneus,0.79,0.641,1.2251,0.0357,Right Precuneus,1
+313,2911.594,1.095,50.1999,Left Precentral Gyrus,0.949,0.905,1.0544,0.0449,Right Cerebellum,1
+314,1537.858,1.388,26.5148,Right Thalamus,0.751,0.612,1.2482,0.0351,Right Thalamus,1
+315,3353.458,1.103,57.8182,Right Superior Parietal Lobule ,0.952,0.897,1.0694,0.0255,Right Cerebellum,1
+316,2154.239,1.271,37.1421,Left Precuneus,0.82,0.729,1.1527,0.0236,Left Hippocampus,1
+317,2128.632,1.269,36.7005,Right Precuneus,0.854,0.732,1.1551,0.0252,Left Superior Temporal Gyrus,1
+318,2292.186,1.211,39.5205,Left Middle Occipital Gyrus,0.882,0.789,1.1205,0.0307,Right Cerebellum,1
+319,1760.658,1.308,30.3562,Right Cerebellum,0.807,0.692,1.1463,0.0297,Right Precuneus,1
+320,786.025,1.66,13.5522,Right Cerebellum,0.545,0.347,1.5052,0.0392,Right Cerebellum,1
+321,801.826,1.638,13.8246,Left Superior Orbital Gyrus,0.542,0.363,1.4677,0.0534,Right Cerebellum,1
+322,1022.784,1.587,17.6342,Right Middle Cingulate Cortex,0.643,0.446,1.4354,0.0465,Right Cerebellum,1
+323,1595.186,1.37,27.5032,Left Middle Temporal Gyrus,0.763,0.63,1.2238,0.049,Left Middle Temporal Gyrus,1
+324,2140.448,1.25,36.9043,Right Superior Frontal Gyrus,0.851,0.75,1.1514,0.0503,Right Cerebellum,1
+325,3288.532,1.089,56.6988,Left Precentral Gyrus,0.963,0.911,1.0578,0.0238,Right Cerebellum,1
+326,1107.534,1.514,19.0954,Right Middle Cingulate Cortex,0.674,0.493,1.3487,0.0679,Right Middle Cingulate Cortex,1
+327,1176.7,1.478,20.2879,Left Cuneus,0.672,0.522,1.3053,0.0412,Right Superior Temporal Gyrus,1
+328,1701.792,1.345,29.3412,Right Middle Temporal Gyrus,0.781,0.655,1.1967,0.0374,Left Cerebellum,1
+329,1023.227,1.561,17.6418,Right Superior Medial Gyrus,0.596,0.44,1.3515,0.043,Right Cerebellum,1
+330,1923.153,1.267,33.1578,Left Superior Temporal Gyrus,0.828,0.733,1.1139,0.0423,Right Cerebellum,1
+331,3258.325,1.086,56.178,Right Middle Cingulate Cortex,0.964,0.914,1.0531,0.0175,Right Cerebellum,1
+332,1279.313,1.456,22.0571,Right Middle Cingulate Cortex,0.725,0.547,1.3496,0.0384,Right Middle Cingulate Cortex,1
+333,2513.236,1.173,43.3317,Right Middle Frontal Gyrus,0.894,0.827,1.0832,0.0355,Right Cerebellum,1
+334,1178.78,1.507,20.3238,Right Middle Cingulate Cortex,0.661,0.494,1.3237,0.0482,Right Middle Frontal Gyrus,1
+335,1219.658,1.499,21.0286,Right Cerebellum,0.619,0.501,1.2347,0.0601,Right Cerebellum,2
+336,1333.579,1.483,22.9927,Right Fusiform Gyrus,0.611,0.518,1.1526,0.0209,Right Superior Temporal Gyrus,2
+337,1309.867,1.469,22.5839,Right Cerebellum,0.683,0.531,1.27,0.0381,Right Cerebellum,2
+338,2262.795,1.236,39.0137,Right Hippocampus,0.834,0.764,1.0872,0.0346,Right Hippocampus,2
+339,1989.085,1.271,34.2946,Right Inferior Temporal Gyrus,0.822,0.729,1.1494,0.0578,Right Middle Cingulate Cortex,2
+340,1554.818,1.396,26.8072,Right Inferior Temporal Gyrus,0.737,0.606,1.2123,0.0485,Right Inferior Temporal Gyrus,2
+341,1707.788,1.363,29.4446,Right Cerebellum,0.745,0.637,1.162,0.0297,Right Cerebellum,2
+342,2098.635,1.269,36.1834,Right Middle Cingulate Cortex,0.816,0.731,1.125,0.0204,RightPrecentral Gyrus,2
+343,1190.066,1.508,20.5184,Right Cerebellum,0.625,0.492,1.2775,0.032,Right Thalamus,2
+344,1721.528,1.347,29.6815,Left Cerebellum,0.766,0.653,1.1733,0.0268,Cerebellar Vermis,2
+345,1142.429,1.515,19.697,Right Cerebellum,0.604,0.485,1.2521,0.029,Left Cerebellum,2
+346,1966.752,1.286,33.9095,Left Middle Temporal Gyrus,0.809,0.714,1.119,0.0351,Right Cerebellum,2
+347,1095.185,1.562,18.8825,Left Cerebellum,0.555,0.439,1.3036,0.0317,Left Cerebellum,2
+348,2013.538,1.273,34.7162,Right Cerebellum,0.807,0.727,1.0997,0.0371,Right Cerebellum,2
+349,1241.368,1.489,21.4029,Right Cerebellum,0.645,0.511,1.2568,0.0426,Right Postcentral Gyrus,2
+350,1449.526,1.438,24.9918,Left Hippocampus,0.698,0.562,1.2697,0.0374,Right Cerebellum,2
+351,887.804,1.615,15.307,Right Cerebellum,0.524,0.386,1.3341,0.024,Right Hippocampus,2
+352,1357.261,1.454,23.4011,Right Middle Temporal Gyrus,0.669,0.546,1.2343,0.0423,Left Cerebellum,2
+353,1396.1,1.442,24.0707,Right Middle Cingulate Cortex,0.679,0.558,1.2286,0.0293,Right Mid Orbital Gyrus,2
+354,2750.883,1.145,47.429,Left Superior Frontal Gyrus,0.91,0.855,1.065,0.0214,Left Precentral Gyrus,1
+355,2049.943,1.273,35.3439,Right Lingual Gyrus,0.816,0.727,1.1053,0.0296,Right Lingual Gyrus,1
+356,1154.26,1.533,19.901,Right Superior Parietal Lobule ,0.599,0.467,1.3016,0.0249,Right Hippocampus,1
+357,1800.738,1.339,31.0472,Left Cerebellum,0.774,0.661,1.1793,0.0435,Right Lingual Gyrus,1
+358,1415.97,1.452,24.4133,Right Inferior Temporal Gyrus,0.66,0.548,1.1999,0.0328,Right Inferior Temporal Gyrus,1
+359,1161.726,1.531,20.0298,Left Hippocampus,0.592,0.469,1.2698,0.0362,Right Middle Cingulate Cortex,1
+360,1774.453,1.34,30.594,Right Cerebellum,0.779,0.66,1.2131,0.0267,Left Thalamus,1
+361,2041.974,1.287,35.2065,Right Postcentral Gyrus,0.833,0.714,1.1606,0.0236,Right Superior Frontal Gyrus,1
+362,1125.261,1.553,19.4011,Cerebellar Vermis,0.592,0.447,1.3157,0.0392,Right Hippocampus,1
+363,2326.23,1.224,40.1074,Right Inferior Temporal Gyrus,0.855,0.776,1.0998,0.0316,Right Inferior Temporal Gyrus,1
+364,1624.155,1.383,28.0027,Left Cerebellum,0.74,0.617,1.1769,0.0255,Right Middle Frontal Gyrus,1
+365,1282.735,1.479,22.1161,Left Cerebellum,0.673,0.522,1.271,0.0328,Left Cerebellum,1
+366,1388.789,1.438,23.9446,Left Precuneus,0.715,0.563,1.2846,0.0366,RightPrecentral Gyrus,1
+367,887.122,1.619,15.2952,Right Middle Cingulate Cortex,0.529,0.381,1.3891,0.0389,Right Middle Cingulate Cortex,1
+368,2311.3,1.204,39.85,Right Medial Temporal Pole,0.861,0.796,1.0987,0.0331,Left Cerebellum,1
+369,1956.234,1.272,33.7282,Left Cerebellum,0.826,0.728,1.1562,0.0301,Right Mid Orbital Gyrus,1
+370,1220.627,1.503,21.0453,Left Thalamus,0.616,0.497,1.2312,0.0282,Left Thalamus,1
+371,1493.072,1.44,25.7426,Right Lingual Gyrus,0.687,0.561,1.2173,0.0374,Right Inferior Temporal Gyrus,1
+372,1352.736,1.447,23.323,Right Cerebellum,0.674,0.553,1.1879,0.0444,Right Cerebellum,1
+373,2817.338,1.137,48.5748,Right Middle Cingulate Cortex,0.929,0.863,1.054,0.0247,Right Middle Cingulate Cortex,1
+374,717.093,1.684,12.3637,Right Cerebellum,0.47,0.319,1.4952,0.0313,Right Cerebellum,1
+375,915.431,1.613,15.7833,Right Mid Orbital Gyrus,0.517,0.387,1.3134,0.045,Left Cerebellum,1
+376,2788.839,1.136,48.0834,Left Cerebellum,0.92,0.864,1.0606,0.0142,Left Superior Temporal Gyrus,1
+377,1966.587,1.287,33.9067,Right Cerebellum,0.816,0.713,1.1427,0.0577,Right SMA,1
+378,1733.565,1.36,29.889,Right Cerebellum,0.777,0.64,1.1771,0.029,Cerebellar Vermis,1
+379,2545.539,1.149,43.8886,Right Middle Cingulate Cortex,0.925,0.851,1.1013,0.0229,Right Middle Cingulate Cortex,1
+380,2196.023,1.24,37.8625,Right Inferior Temporal Gyrus,0.834,0.76,1.0907,0.0253,Cerebellar Vermis,2
+381,2453.008,1.178,42.2932,Right Middle Cingulate Cortex,0.896,0.822,1.0857,0.0314,Right Middle Cingulate Cortex,2
+382,2191.191,1.236,37.7792,Right Lingual Gyrus,0.847,0.764,1.1119,0.025,Left Middle Temporal Gyrus,2
+383,2746.928,1.153,47.3608,Right Middle Cingulate Cortex,0.914,0.847,1.0787,0.0276,Right Middle Cingulate Cortex,2
+384,2655.864,1.212,45.7908,Right Superior Temporal Gyrus,0.857,0.788,1.0817,0.0229,Left Cerebellum,2
+385,2559.936,1.232,44.1368,Left Temporal Pole,0.874,0.768,1.1317,0.0268,Right Cerebellum,2
+386,3162.316,1.11,54.5227,Left Hippocampus,0.945,0.89,1.0735,0.0416,Cerebellar Vermis,2
+387,2507.985,1.181,43.2411,Right Middle Cingulate Cortex,0.887,0.819,1.0942,0.0365,Left Cerebellum,1
+388,2402.017,1.194,41.4141,Right Middle Cingulate Cortex,0.864,0.806,1.0661,0.0146,Right Inferior Temporal Gyrus,2
+389,1745.038,1.349,30.0869,Right Inferior Temporal Gyrus,0.744,0.651,1.151,0.0398,Right Inferior Temporal Gyrus,2
+390,1650.621,1.363,28.459,Left Cerebellum,0.753,0.637,1.1896,0.0281,Left Cerebellum,1
+391,2906.707,1.128,50.1156,Right Middle Cingulate Cortex,0.927,0.872,1.0703,0.0136,Right Middle Cingulate Cortex,1
+392,1614.69,1.38,27.8395,Left Cerebellum,0.734,0.62,1.1611,0.0229,Left Cerebellum,2
+393,1962.164,1.289,33.8304,Right Lingual Gyrus,0.787,0.711,1.1183,0.0227,Right Cerebellum,2
+394,2770.187,1.18,47.7618,Right Precuneus,0.902,0.82,1.0992,0.0468,Left Cerebellum,1
+395,1820.633,1.346,31.3902,Right Lingual Gyrus,0.777,0.654,1.2033,0.031,Right Cerebellum,1
+396,1614.867,1.375,27.8425,Left Temporal Pole,0.754,0.625,1.1669,0.0262,Left Superior Frontal Gyrus,1
+397,1962.091,1.288,33.8292,Right Cerebellum,0.792,0.712,1.1038,0.0275,Right Lingual Gyrus,1
+398,2155.728,1.269,37.1677,Right Cerebellum,0.836,0.732,1.1386,0.0442,Left Cerebellum,1
+399,1603.627,1.372,27.6487,Left Cerebellum,0.744,0.628,1.1745,0.0267,Right Middle Cingulate Cortex,2
+400,2899.865,1.119,49.9977,Right Cerebellum,0.939,0.881,1.0732,0.0261,Right Insula Lobe,2
+401,1266.305,1.506,21.8328,Left ParaHippocampal Gyrus,0.649,0.495,1.3165,0.0438,Left Inferior Parietal Lobule ,1
+402,2362.61,1.217,40.7347,Right Cerebellum,0.851,0.783,1.0834,0.0343,Right Cerebellum,2
+403,1551.649,1.409,26.7526,Cerebellar Vermis,0.71,0.591,1.2173,0.0293,Right Middle Cingulate Cortex,1
+404,1609.739,1.368,27.7541,Right Cerebellum,0.724,0.632,1.1328,0.0255,Right Superior Temporal Gyrus,2
+405,2144.535,1.249,36.9747,Right Lingual Gyrus,0.84,0.751,1.1097,0.0206,Right Lingual Gyrus,1
+406,2959.136,1.115,51.0196,Right Lingual Gyrus,0.937,0.885,1.0507,0.0169,Right Superior Temporal Gyrus,1
+407,2272.932,1.243,39.1885,Right Cerebellum,0.834,0.757,1.079,0.0276,Left Cerebellum,2
+408,1984.824,1.3,34.2211,Right Cerebellum,0.799,0.7,1.1402,0.0359,Right Middle Cingulate Cortex,2
+409,1741.984,1.342,30.0342,Right Middle Temporal Gyrus,0.781,0.658,1.1905,0.0323,Right Middle Temporal Gyrus,1
+410,3612.576,1.032,62.2858,Right Middle Cingulate Cortex,0.982,0.968,1.0069,0.018,Right Cerebellum,2
+411,2418.052,1.214,41.6905,Left Precentral Gyrus,0.862,0.786,1.0945,0.0346,Right Cerebellum,1
+412,1667.045,1.349,28.7422,Right Cerebellum,0.753,0.651,1.177,0.0331,Left Inferior Occipital Gyrus,2
+413,2530.564,1.165,43.6304,Right Lingual Gyrus,0.89,0.835,1.07,0.0186,Right Cerebellum,2
+414,2142.961,1.255,36.9476,Right Lingual Gyrus,0.837,0.745,1.126,0.0186,Right Middle Cingulate Cortex,2
+415,2172.317,1.252,37.4537,Right Inferior Temporal Gyrus,0.845,0.748,1.1314,0.0241,Left Cerebellum,2
+416,1894.037,1.306,32.6558,Cerebellar Vermis,0.793,0.694,1.1135,0.0226,Right Temporal Pole,2
+417,2016.161,1.271,34.7614,Right SMA,0.819,0.729,1.1317,0.0345,Left Precentral Gyrus,2
+418,3283.662,1.103,56.6149,Right Lingual Gyrus,0.941,0.897,1.0387,0.0204,Cerebellar Vermis,2
+419,1697.904,1.341,29.2742,Right Lingual Gyrus,0.771,0.659,1.1684,0.0362,Right Middle Cingulate Cortex,2
+420,1263.263,1.495,21.7804,Right Medial Temporal Pole,0.643,0.505,1.2773,0.0258,Right Thalamus,2
+421,1861.896,1.305,32.1016,Right Middle Temporal Gyrus,0.795,0.695,1.1582,0.0273,Right Cerebellum,2
+422,2265.624,1.229,39.0625,Right Middle Cingulate Cortex,0.859,0.771,1.0953,0.0319,Left Cerebellum,2
+423,2133.217,1.257,36.7796,Right Cerebellum,0.838,0.743,1.1376,0.0302,Right Cerebellum,2
+424,2395.375,1.212,41.2996,Right Middle Cingulate Cortex,0.871,0.788,1.1197,0.0192,Right Pallidum,2
+425,1577.123,1.386,27.1918,Cerebellar Vermis,0.745,0.615,1.1881,0.0279,RightPrecentral Gyrus,2
+426,2103.999,1.262,36.2758,Right Calcarine Gyrus,0.848,0.738,1.1326,0.0275,Right SMA,2
+427,2748.663,1.19,47.3907,Right Middle Cingulate Cortex,0.87,0.81,1.0737,0.0487,Right Cerebellum,2
+428,2624.911,1.154,45.2571,Right Cerebellum,0.904,0.846,1.0738,0.0197,Left Hippocampus,1
+429,2172.583,1.271,37.4583,Left Cerebellum,0.851,0.729,1.1556,0.0317,Right Cerebellum,1
+430,926.894,1.6,15.9809,Right Cerebellum,0.524,0.4,1.2758,0.0395,Right Temporal Pole,1
+431,2459.163,1.186,42.3994,Right Inferior Temporal Gyrus,0.89,0.814,1.0879,0.0345,Right Thalamus,1
+432,1543.454,1.375,26.6113,Right Cerebellum,0.743,0.625,1.1854,0.0416,Right Cerebellum,1
+433,2011.219,1.266,34.6762,Left Precuneus,0.829,0.734,1.1281,0.0371,Left Precuneus,1
+434,2279.098,1.237,39.2948,Left Paracentral Lobule,0.863,0.763,1.1481,0.0259,Left Cerebellum,1
+435,1377.55,1.45,23.7509,Left Thalamus,0.666,0.55,1.2629,0.0261,Left Cerebellum,1
+436,1678.558,1.358,28.9407,Right Cerebellum,0.761,0.642,1.1781,0.0426,Right Cerebellum,1
+437,1947.422,1.314,33.5762,Right Cerebellum,0.801,0.686,1.1554,0.0264,Right Cerebellum,1
+438,3070.387,1.091,52.9377,Left Cerebellum,0.952,0.909,1.0542,0.0175,Right Middle Cingulate Cortex,1
+439,3087.547,1.106,53.2336,Right Middle Cingulate Cortex,0.94,0.894,1.0489,0.0392,Cerebellar Vermis,1
+440,1941.991,1.308,33.4826,Right Precuneus,0.815,0.692,1.1842,0.0261,Left Cerebellum,2
+441,1546.509,1.387,26.6639,Right SMA,0.722,0.613,1.1852,0.041,Right SMA,2
+442,770.793,1.652,13.2895,Left Precentral Gyrus,0.495,0.349,1.4566,0.0473,Left Precentral Gyrus,2
+443,1408.743,1.449,24.2887,Right Temporal Pole,0.687,0.553,1.2651,0.0308,RightPrecentral Gyrus,2
+444,1455.152,1.427,25.0888,Left Precentral Gyrus,0.697,0.573,1.231,0.0244,Left Middle Frontal Gyrus,2
+445,2464.456,1.211,42.4906,Right Superior Frontal Gyrus,0.876,0.789,1.0967,0.0162,Right Superior Frontal Gyrus,2
+446,1339.367,1.464,23.0925,Left Precentral Gyrus,0.694,0.536,1.3002,0.0474,Left Precentral Gyrus,2
+447,2529.38,1.204,43.61,Right Superior Medial Gyrus,0.883,0.796,1.1225,0.0279,Cerebellar Vermis,2
+448,1799.235,1.339,31.0213,Right Cerebellum,0.785,0.661,1.2184,0.0307,Left Cerebellum,2
+449,1487.223,1.418,25.6418,Right Cerebellum,0.714,0.582,1.2361,0.0375,Right Thalamus,2
+450,1340.23,1.465,23.1074,Right Cerebellum,0.67,0.535,1.2659,0.022,Right Cerebellum,2
+451,1482.5,1.421,25.5603,Right Cerebellum,0.72,0.579,1.237,0.0287,Right Cerebellum,2
+452,992.035,1.564,17.104,Right Cerebellum,0.598,0.438,1.3661,0.0206,Right Cerebellum,2
+453,915.525,1.59,15.7849,Left Temporal Pole,0.542,0.41,1.3598,0.0224,Right SMA,1
+454,1301.77,1.468,22.4443,Left Cerebellum,0.662,0.532,1.2502,0.0304,Left Cerebellum,1
+455,1687.743,1.377,29.099,Left Precuneus,0.745,0.623,1.191,0.0326,Right Cerebellum,1
+456,3881.622,1.085,66.9245,Right Middle Cingulate Cortex,0.969,0.915,1.0547,0.0168,Left Caudate Nucleus,1
+457,2355.13,1.257,40.6057,Left Middle Temporal Gyrus,0.848,0.743,1.132,0.0314,Left Cerebellum,1
+458,998.418,1.552,17.2141,Right Thalamus,0.581,0.448,1.3188,0.0247,Right Thalamus,1
+459,1716.449,1.363,29.5939,Right Middle Cingulate Cortex,0.786,0.64,1.2446,0.0316,Right Middle Cingulate Cortex,1
+460,1548.557,1.437,26.6993,Left Paracentral Lobule,0.703,0.564,1.2417,0.0311,Left Cerebellum,1
+461,1477.815,1.425,25.4796,Left Precentral Gyrus,0.72,0.576,1.2847,0.0249,Right Middle Frontal Gyrus,1
+462,1960.875,1.289,33.8082,Right Amygdala,0.815,0.711,1.1382,0.0258,Left Cerebellum,1
+463,2102.006,1.258,36.2415,Right SMA,0.828,0.742,1.1184,0.0305,Left Cerebellum,2
+464,1780.501,1.34,30.6983,Left Precentral Gyrus,0.782,0.66,1.1999,0.0307,Right Inferior Temporal Gyrus,2
+465,1213.966,1.498,20.9305,Right Postcentral Gyrus,0.639,0.502,1.2854,0.0285,Right Cerebellum,2
+466,1883.495,1.331,32.474,Left Temporal Pole,0.779,0.669,1.1602,0.0378,Left Temporal Pole,2
+467,842.883,1.619,14.5325,Left Precentral Gyrus,0.512,0.381,1.3211,0.0342,Right Cerebellum,2
+468,978.043,1.589,16.8628,RightPrecentral Gyrus,0.564,0.411,1.3431,0.0265,Left Cerebellum,2
+469,918.048,1.612,15.8284,Left Precentral Gyrus,0.523,0.388,1.3094,0.0258,Right Cerebellum,2
+470,1503.846,1.414,25.9284,Right Precuneus,0.731,0.586,1.2532,0.0268,RightPrecentral Gyrus,2
+471,1516.2,1.397,26.1414,Right Middle Cingulate Cortex,0.737,0.603,1.2246,0.0375,Left Cerebellum,1
+472,1471.468,1.421,25.3701,Left Temporal Pole,0.7,0.579,1.2234,0.0368,Right Cerebellum,1
+473,2310.952,1.242,39.844,Left Middle Occipital Gyrus,0.861,0.758,1.1545,0.0369,Right Mid Orbital Gyrus,1
+474,1590.48,1.376,27.4221,Right Cerebellum,0.753,0.624,1.2346,0.0436,Right Cerebellum,1
+475,878.585,1.608,15.148,Right Thalamus,0.532,0.393,1.3282,0.0296,Right Calcarine Gyrus,1
+476,1299.438,1.459,22.4041,Right Cerebellum,0.7,0.543,1.3081,0.0436,Right Cerebellum,1
+477,2459.279,1.21,42.4014,Right Middle Cingulate Cortex,0.878,0.79,1.0955,0.0178,Cerebellar Vermis,1
+478,1961.906,1.29,33.826,Right Lingual Gyrus,0.813,0.71,1.1462,0.0313,Right Lingual Gyrus,1
+479,2685.212,1.194,46.2968,Right SMA,0.895,0.806,1.1063,0.0314,Right Precuneus,1
+480,1519.811,1.401,26.2036,Right Middle Cingulate Cortex,0.744,0.6,1.2158,0.0406,Right Middle Cingulate Cortex,1
+481,1820.966,1.315,31.396,Left Cerebellum,0.789,0.685,1.1799,0.0253,Left Cerebellum,1
+482,2835.971,1.144,48.8961,Left Cerebellum,0.924,0.857,1.0796,0.0203,Left Cerebellum,1
+483,1839.498,1.285,31.7155,Right SMA,0.822,0.716,1.1214,0.018,Right Hippocampus,1
+484,1304.527,1.461,22.4918,Right Cerebellum,0.687,0.54,1.2639,0.0432,Right Cerebellum,1
+485,1577.772,1.387,27.203,Right Lingual Gyrus,0.744,0.613,1.2167,0.0438,Right Lingual Gyrus,1
+486,1552.655,1.386,26.7699,RightPrecentral Gyrus,0.746,0.614,1.1988,0.033,Right Cerebellum,1
+487,1025.004,1.549,17.6725,Right Cerebellum,0.623,0.452,1.3814,0.0651,Right Cerebellum,1
+488,2044.184,1.238,35.2446,Left Cerebellum,0.842,0.762,1.1119,0.0189,Left Cerebellum,1
+489,1108.831,1.532,19.1178,Left Precuneus,0.626,0.468,1.2844,0.0326,Right Middle Cingulate Cortex,1
+490,1484.003,1.407,25.5863,Right Postcentral Gyrus,0.728,0.593,1.2142,0.027,Right Middle Cingulate Cortex,1
+491,1446.181,1.409,24.9341,Right SMA,0.706,0.591,1.1788,0.0337,Right Lingual Gyrus,1
+492,1481.863,1.405,25.5494,Right SMA,0.749,0.596,1.2458,0.0479,Right Cerebellum,1
+493,1177.919,1.501,20.309,Right Cerebellum,0.624,0.499,1.2491,0.0458,Right Cerebellum,1
+494,983.232,1.57,16.9523,Right SMA,0.603,0.433,1.4004,0.0343,Right SMA,1
+495,870.441,1.606,15.0076,Left Cuneus,0.534,0.395,1.3043,0.032,Left Cuneus,1
+496,2412.554,1.187,41.5958,Left Hippocampus,0.882,0.813,1.0988,0.0284,Right Cerebellum,1
+497,2174.047,1.219,37.4836,Right SMA,0.848,0.781,1.1008,0.041,Right SMA,1
+498,1266.866,1.475,21.8425,Right Lingual Gyrus,0.661,0.525,1.2409,0.0369,Right Lingual Gyrus,1
+499,1344.356,1.451,23.1785,Right SMA,0.684,0.549,1.2487,0.0465,Right SMA,1
+500,3743.956,1.038,64.551,Right Middle Cingulate Cortex,0.975,0.962,1.0187,0.0098,Right Paracentral Lobule,1
+501,1029.288,1.561,17.7463,Right Middle Cingulate Cortex,0.577,0.44,1.3409,0.0267,Left Middle Occipital Gyrus,1
+502,862.946,1.61,14.8784,Left Cerebellum,0.523,0.391,1.3555,0.0316,Right Precuneus,1
+503,1196.096,1.502,20.6224,Cerebellar Vermis,0.641,0.499,1.2976,0.0275,Cerebellar Vermis,1
+504,1366.57,1.436,23.5615,Left Cerebellum,0.693,0.564,1.2177,0.0452,Left Cerebellum,1
+505,1036.245,1.55,17.8663,Right Cerebellum,0.592,0.451,1.3336,0.0342,Left Cerebellum,1
+506,1587.336,1.38,27.3679,Cerebellar Vermis,0.77,0.621,1.2308,0.0351,Cerebellar Vermis,1
+507,1445.863,1.405,24.9287,Left Inferior Temporal Gyrus,0.734,0.595,1.2348,0.0279,Right Paracentral Lobule,1
+508,1536.536,1.388,26.492,Right Cerebellum,0.737,0.612,1.2001,0.0313,Right Cerebellum,1
+509,1233.089,1.481,21.2602,Left Cerebellum,0.656,0.519,1.282,0.04,Left Cerebellum,1
+510,1107.656,1.535,19.0975,Left Middle Occipital Gyrus,0.598,0.465,1.3044,0.0601,Left Middle Occipital Gyrus,1
+511,1473.684,1.421,25.4083,Left Lingual Gyrus,0.706,0.579,1.2336,0.031,Right Middle Cingulate Cortex,1
+512,1980.569,1.297,34.1477,Right Middle Cingulate Cortex,0.817,0.703,1.1794,0.0278,Right Middle Cingulate Cortex,1
+513,1548.774,1.413,26.703,Left Cerebellum,0.72,0.587,1.2743,0.027,Left Cerebellum,1
+514,1249.467,1.488,21.5425,Cerebellar Vermis,0.66,0.512,1.2965,0.0532,Cerebellar Vermis,1
+515,1268.361,1.479,21.8683,Right Thalamus,0.682,0.522,1.323,0.0368,Right Cerebellum,1
+516,1177.916,1.501,20.3089,Right SMA,0.653,0.499,1.321,0.0297,Right SMA,1
+517,3714.349,1.047,64.0405,Right Middle Cingulate Cortex,0.974,0.953,1.0263,0.0171,Right Cerebellum,1
+518,1357.573,1.443,23.4064,Right Superior Medial Gyrus,0.711,0.557,1.3021,0.0333,Right Superior Temporal Gyrus,1
+519,1131.237,1.523,19.5041,Right Hippocampus,0.638,0.479,1.325,0.0426,Cerebellar Vermis,1
+520,2413.11,1.168,41.6053,Right SMA,0.892,0.832,1.0876,0.025,Right SMA,1
+521,1349.893,1.478,23.274,Left Precuneus,0.671,0.523,1.2762,0.0198,Cerebellar Vermis,1
+522,1463.092,1.405,25.2257,Cerebellar Vermis,0.74,0.595,1.25,0.0438,Right Middle Cingulate Cortex,1
+523,2122.642,1.225,36.5973,Right Cerebellum,0.852,0.775,1.0902,0.0294,Right SMA,1
+524,1462.138,1.418,25.2093,Right Cerebellum,0.713,0.582,1.2303,0.0534,Right Cerebellum,1
+525,2100.21,1.26,36.2105,Right Thalamus,0.837,0.74,1.1175,0.0522,Right Thalamus,1
+526,1305.318,1.464,22.5055,Right Middle Cingulate Cortex,0.675,0.536,1.2395,0.0372,Right Fusiform Gyrus,1
+527,1311.234,1.467,22.6075,Left Cerebellum,0.671,0.533,1.2311,0.0355,Right SMA,1
+528,1157.284,1.516,19.9532,Right Cerebellum,0.641,0.488,1.351,0.0273,Right Middle Cingulate Cortex,1
+529,1683.729,1.363,29.0298,Left Middle Occipital Gyrus,0.78,0.637,1.2378,0.0343,Right Middle Cingulate Cortex,1
+530,1771.468,1.344,30.5425,Right Cerebellum,0.789,0.657,1.2095,0.0351,Right Cerebellum,1
+531,1243.954,1.489,21.4475,Left ParaHippocampal Gyrus,0.64,0.511,1.2423,0.0339,Right Thalamus,1
+532,1295.517,1.482,22.3365,Right SMA,0.673,0.519,1.2882,0.0406,Right SMA,1
+533,2842.015,1.135,49.0003,Right Hippocampus,0.925,0.866,1.0648,0.018,Right Cerebellum,1
+534,1474.654,1.423,25.4251,Left Superior Parietal Lobule ,0.709,0.577,1.2096,0.0293,Right Superior Frontal Gyrus,1
+535,1023.531,1.543,17.6471,Right Hippocampus,0.6,0.457,1.3016,0.0349,Right Cerebellum,1
+536,1986.24,1.292,34.2455,Left Cerebellum,0.819,0.708,1.1835,0.0381,Left Cerebellum,1
+537,1539.781,1.394,26.5479,Right Cerebellum,0.737,0.606,1.2022,0.0349,Left Cerebellum,1
+538,1206.463,1.493,20.8011,Right Cerebellum,0.664,0.507,1.3131,0.0368,Right Middle Cingulate Cortex,1
+539,1253.76,1.466,21.6166,Right Cerebellum,0.682,0.536,1.2676,0.0333,Right Cerebellum,1
+540,1570.5,1.376,27.0776,Right Cerebellum,0.739,0.624,1.1746,0.0281,Right Lingual Gyrus,1
+541,1139.456,1.526,19.6458,Right Middle Cingulate Cortex,0.647,0.475,1.3231,0.032,Right Middle Cingulate Cortex,1
+542,2348.086,1.172,40.4842,Right Middle Cingulate Cortex,0.882,0.828,1.0741,0.0255,Right Cerebellum,1
+543,1636.404,1.365,28.2139,Right Paracentral Lobule,0.77,0.636,1.2369,0.0625,Right Paracentral Lobule,1
+544,1538.437,1.408,26.5248,Right SMA,0.717,0.592,1.1907,0.0301,Right Cerebellum,1
+545,2164.694,1.225,37.3223,Right Thalamus,0.854,0.775,1.0783,0.0221,Left Precentral Gyrus,1
+546,1609.361,1.376,27.7476,Left Cerebellum,0.771,0.625,1.25,0.0398,Left Cerebellum,2
+547,1862.866,1.318,32.1184,Right SMA,0.808,0.689,1.1613,0.0265,Left Middle Occipital Gyrus,2
+548,1236.941,1.514,21.3266,Left Middle Occipital Gyrus,0.658,0.488,1.3358,0.0264,Right Thalamus,2
+549,1330.688,1.448,22.9429,Right Precuneus,0.701,0.552,1.2487,0.0351,Right Precuneus,2
+550,1119.923,1.528,19.309,Right Cerebellum,0.606,0.473,1.2851,0.0441,Right Precuneus,2
+551,1042.641,1.555,17.9766,Right Cerebellum,0.606,0.446,1.345,0.0387,Right SMA,2
+552,2208.915,1.216,38.0847,RightPrecentral Gyrus,0.865,0.784,1.1076,0.0409,Left Cerebellum,2
+553,1057.799,1.534,18.2379,Right Lingual Gyrus,0.617,0.467,1.2491,0.0296,Left Middle Occipital Gyrus,2
+554,1345.615,1.459,23.2003,Right Cerebellum,0.688,0.542,1.2706,0.0429,Right Cerebellum,2
+555,1163.698,1.505,20.0638,Right Middle Cingulate Cortex,0.645,0.495,1.3153,0.0323,Right Cerebellum,2
+556,1532.227,1.373,26.4177,Right Superior Frontal Gyrus,0.754,0.628,1.2176,0.0307,Right SMA,2
+557,916.022,1.59,15.7935,Right Anterior Cingulate Cortex,0.55,0.41,1.314,0.0378,Right SMA,2
+558,1185.207,1.505,20.4346,Left Cerebellum,0.615,0.496,1.2071,0.0233,Right Superior Medial Gyrus,2
+559,1487.168,1.422,25.6408,Right Cerebellum,0.715,0.578,1.2567,0.0319,RightPrecentral Gyrus,2
+560,1565.759,1.386,26.9958,Right Superior Frontal Gyrus,0.723,0.614,1.1696,0.033,RightPrecentral Gyrus,2
+561,1998.534,1.275,34.4575,Right Cerebellum,0.824,0.725,1.1531,0.0285,Right Middle Cingulate Cortex,2
+562,1660.795,1.373,28.6344,Left Cerebellum,0.755,0.627,1.1907,0.0354,Right SMA,2
+563,1447.907,1.436,24.9639,Right Cerebellum,0.711,0.564,1.2729,0.0252,Left Temporal Pole,2
+564,1390.743,1.432,23.9783,Left Cerebellum,0.689,0.568,1.2357,0.033,RightPrecentral Gyrus,2
+565,1425.613,1.443,24.5795,Left Cerebellum,0.702,0.567,1.2253,0.0421,Left Cerebellum,2
+566,2351.629,1.225,40.5453,Left Hippocampus,0.874,0.775,1.1111,0.0284,Left Cerebellum,2
+567,1139.462,1.509,19.6459,Right Cerebellum,0.619,0.491,1.2792,0.0256,Right SMA,2
+568,955.834,1.583,16.4799,RightPrecentral Gyrus,0.572,0.418,1.3491,0.0307,Right Middle Cingulate Cortex,2
+569,1056.393,1.553,18.2137,Right Inferior Temporal Gyrus,0.595,0.447,1.352,0.0243,Right Cerebellum,2
+570,1820.28,1.333,31.3841,Cerebellar Vermis,0.817,0.672,1.2077,0.033,Cerebellar Vermis,2
+571,837.226,1.628,14.4349,Left Middle Frontal Gyrus,0.519,0.375,1.3214,0.0243,Right Cerebellum,2
+572,2263.115,1.183,39.0192,Right Inferior Temporal Gyrus,0.873,0.817,1.0641,0.0215,Right Middle Cingulate Cortex,2
+573,1827.991,1.349,31.5171,Left Middle Occipital Gyrus,0.778,0.651,1.1768,0.0343,Right Cerebellum,2
+574,2111.845,1.231,36.4111,Right Middle Cingulate Cortex,0.858,0.769,1.1021,0.0288,Right Middle Cingulate Cortex,2
+575,957.35,1.583,16.506,Left Cerebellum,0.581,0.418,1.3809,0.033,Left Cerebellum,2
+576,1944.168,1.273,33.5201,Right Cerebellum,0.82,0.727,1.13,0.0288,Right Cerebellum,2
+577,1411.091,1.445,24.3292,Right Fusiform Gyrus,0.707,0.556,1.2795,0.0244,Right Fusiform Gyrus,2
+578,1726.475,1.34,29.7668,Right Cerebellum,0.78,0.66,1.1682,0.0299,Right Cerebellum,2
+579,1687.762,1.352,29.0993,Cerebellar Vermis,0.773,0.649,1.1887,0.0288,Right SMA,2
+580,1232.853,1.492,21.2561,Left Superior Temporal Gyrus,0.652,0.508,1.292,0.0268,Left Superior Temporal Gyrus,2
+581,1115.258,1.528,19.2286,Left Fusiform Gyrus,0.613,0.472,1.3178,0.0345,Right Middle Cingulate Cortex,2
+582,3167.196,1.069,54.6068,Right SMA,0.948,0.931,1.0273,0.0241,Left Cerebellum,2
+583,1206.37,1.492,20.7995,Right Precuneus,0.655,0.509,1.2525,0.0221,Left Middle Occipital Gyrus,2
+584,1358.306,1.455,23.4191,Right SMA,0.69,0.546,1.2665,0.0464,Left Middle Occipital Gyrus,2
+585,740.302,1.674,12.7638,Cerebellar Vermis,0.489,0.327,1.4812,0.0484,Cerebellar Vermis,2
+586,1274.477,1.481,21.9737,Right Lingual Gyrus,0.673,0.52,1.3056,0.0456,Right SMA,2
+587,2931.323,1.122,50.5401,Left Superior Temporal Gyrus,0.934,0.878,1.0636,0.0491,Right Cerebellum,2
+588,1195.891,1.509,20.6188,Right Hippocampus,0.639,0.491,1.32,0.0359,Right Superior Medial Gyrus,2
+589,1803.641,1.351,31.0973,Left Superior Temporal Gyrus,0.755,0.649,1.1588,0.0659,Right SMA,2
+590,1994.617,1.285,34.3899,Right Cerebellum,0.827,0.715,1.1568,0.0293,Right Cerebellum,2
+591,2700.647,1.127,46.5629,Left Cerebellum,0.92,0.873,1.0527,0.0169,Right Middle Cingulate Cortex,2
+592,1934.413,1.269,33.3519,Right SMA,0.838,0.731,1.1559,0.0252,Right Cerebellum,2
+593,1431.361,1.417,24.6786,Right Superior Frontal Gyrus,0.718,0.583,1.2583,0.0488,Right Superior Frontal Gyrus,2
+594,1378.307,1.432,23.7639,Right Inferior Temporal Gyrus,0.696,0.569,1.2042,0.0301,Right Lingual Gyrus,2
+595,1010.604,1.568,17.4242,Left Cerebellum,0.602,0.432,1.3783,0.0319,Right Cerebellum,2
+596,1368.366,1.454,23.5925,Left Cerebellum,0.69,0.546,1.2178,0.041,Cerebellar Vermis,2
+597,1697.238,1.354,29.2627,Right Hippocampus,0.761,0.646,1.1778,0.0392,Left Hippocampus,2
+598,1376.404,1.443,23.7311,Right Middle Cingulate Cortex,0.694,0.557,1.2645,0.0462,Right SMA,2
+599,2634.481,1.162,45.4221,Left Cerebellum,0.903,0.838,1.0647,0.0267,Cerebellar Vermis,2
+600,1093.748,1.544,18.8577,Right Precuneus,0.6,0.457,1.3524,0.0568,Right Precuneus,2
+601,2256.383,1.252,38.9031,Right Cerebellum,0.826,0.749,1.1015,0.0317,Right Cerebellum,2
+602,1567.406,1.401,27.0242,Right Inferior Temporal Gyrus,0.714,0.599,1.1887,0.0305,Right Thalamus,2
+603,1721.997,1.353,29.6896,Right Inferior Frontal Gyrus (p. Triangularis),0.785,0.648,1.2028,0.0212,Right SMA,2
+604,1685.145,1.347,29.0542,Right Middle Cingulate Cortex,0.789,0.653,1.2029,0.0273,Right Middle Cingulate Cortex,2
+605,903.881,1.615,15.5842,Right Middle Cingulate Cortex,0.559,0.391,1.4561,0.0319,Right Cerebellum,2
+606,2623.173,1.145,45.2271,Right SMA,0.909,0.855,1.0456,0.02,Right Precuneus,2
+607,1637.381,1.379,28.2307,Left Middle Temporal Gyrus,0.741,0.621,1.1804,0.0325,Right Postcentral Gyrus,2
+608,1876.33,1.32,32.3505,Right Temporal Pole,0.792,0.68,1.1604,0.0384,Right Cerebellum,2
+609,2720.48,1.148,46.9048,Right Cerebellum,0.918,0.852,1.0699,0.0206,Right Hippocampus,2
+610,1417.614,1.415,24.4416,Right Hippocampus,0.72,0.585,1.2367,0.0413,Right Hippocampus,2
+611,2437.718,1.168,42.0296,Left Cerebellum,0.897,0.832,1.0926,0.025,Right SMA,2
+612,1513.707,1.417,26.0984,Right SMA,0.71,0.583,1.1922,0.0374,Right Cerebellum,2
+613,2000.264,1.267,34.4873,Right SMA,0.831,0.733,1.1512,0.024,Right SMA,2
+614,1032.128,1.571,17.7953,Right Inferior Temporal Gyrus,0.574,0.431,1.3261,0.0453,Right Middle Cingulate Cortex,2
+615,1928.171,1.293,33.2443,Left Superior Occipital Gyrus,0.811,0.707,1.1218,0.0211,Right Precuneus,2
+616,1388.202,1.427,23.9345,Right SMA,0.705,0.574,1.1933,0.0363,Right SMA,2
+617,1390.066,1.431,23.9666,Left Cerebellum,0.707,0.57,1.2305,0.0412,Left Cerebellum,2
+618,1734.794,1.318,29.9102,Right Middle Cingulate Cortex,0.803,0.682,1.1933,0.0293,Right Middle Cingulate Cortex,2
+619,1823.61,1.286,31.4415,Right Middle Temporal Gyrus,0.816,0.714,1.1267,0.0345,Right Middle Temporal Gyrus,2
+620,1856.451,1.315,32.0078,Right SMA,0.804,0.686,1.1792,0.0278,Right Middle Cingulate Cortex,2
+621,1053.574,1.57,18.1651,Right Precuneus,0.586,0.432,1.3852,0.0322,Right Precuneus,2
+622,1964.381,1.284,33.8686,Right Middle Temporal Gyrus,0.826,0.716,1.1625,0.0287,Right Mid Orbital Gyrus,2
+623,1406.848,1.436,24.256,Left Cerebellum,0.705,0.564,1.2608,0.0235,Right Inferior Temporal Gyrus,2
+624,1250.89,1.491,21.5671,Right Paracentral Lobule,0.665,0.51,1.2624,0.0316,Right Paracentral Lobule,2
+625,1850.456,1.309,31.9044,Left Cerebellum,0.8,0.691,1.1368,0.0352,Left Cerebellum,2
+626,1153.074,1.517,19.8806,Left Fusiform Gyrus,0.661,0.486,1.3982,0.0368,Right Cerebellum,2
+627,1912.065,1.278,32.9666,Left Precentral Gyrus,0.825,0.723,1.1401,0.0294,Right Cerebellum,2
+628,3090.972,1.137,53.2926,Right SMA,0.942,0.863,1.1072,0.0331,Right Cerebellum,2
+629,1209.615,1.495,20.8554,Right Cerebellum,0.624,0.505,1.2429,0.0412,Right Cerebellum,2
+630,2519.492,1.199,43.4395,Left Precuneus,0.874,0.801,1.0911,0.0325,Right Superior Temporal Gyrus,2
+631,1963.573,1.311,33.8547,Right SMA,0.805,0.689,1.1856,0.0211,Right Fusiform Gyrus,2
+632,1728.697,1.364,29.8051,Left Precuneus,0.747,0.636,1.1778,0.0278,Right Cerebellum,2
+633,2182.683,1.253,37.6325,Left Cerebellum,0.853,0.747,1.148,0.0223,Left Precuneus,2
+634,3273.894,1.139,56.4464,Right Cuneus,0.936,0.861,1.0827,0.0221,Right Fusiform Gyrus,2
+635,1995.853,1.304,34.4113,Left Cerebellum,0.811,0.696,1.161,0.0278,Left Middle Temporal Gyrus,2
+636,1731.431,1.36,29.8523,Left Precuneus,0.754,0.641,1.1697,0.0267,Left Middle Occipital Gyrus,2
+637,957.273,1.584,16.5047,Left Cerebellum,0.544,0.416,1.2897,0.0272,Right Superior Medial Gyrus,2
+638,1265.403,1.492,21.8173,Left Inferior Occipital Gyrus,0.642,0.508,1.2824,0.0348,Right Cerebellum,2
+639,2846.058,1.156,49.07,Left Fusiform Gyrus,0.905,0.844,1.0822,0.0168,Left Cerebellum,2
+640,1929.23,1.294,33.2626,Left Cerebellum,0.799,0.706,1.1408,0.0241,Left Thalamus,2
+641,1687.773,1.364,29.0995,Right Lingual Gyrus,0.779,0.636,1.2338,0.0302,Right ParaHippocampal Gyrus,2
+642,1374.032,1.456,23.6902,Right Anterior Cingulate Cortex,0.68,0.544,1.2094,0.0258,Right Inferior Frontal Gyrus (p. Orbitalis),2
+643,1400.259,1.436,24.1424,Right Inferior Temporal Gyrus,0.699,0.564,1.2347,0.0439,Left Cerebellum,2
+644,1377.866,1.434,23.7563,Right Precuneus,0.695,0.566,1.1845,0.0311,Left Cerebellum,2
+645,2674.437,1.147,46.111,Left Cerebellum,0.903,0.853,1.0481,0.0441,Left Cerebellum,2
+646,2544.972,1.127,43.8788,Right Cerebellum,0.914,0.873,1.0446,0.0214,Right Middle Cingulate Cortex,2
+647,2656.887,1.147,45.8084,Left Amygdala,0.916,0.853,1.0718,0.0174,Cerebellar Vermis,2
+648,2399.901,1.179,41.3776,Right Cerebellum,0.885,0.821,1.0729,0.0151,RightPrecentral Gyrus,2
+649,1765.999,1.321,30.4483,Right Middle Cingulate Cortex,0.804,0.679,1.1597,0.0406,Left Cerebellum,2
+650,1069.253,1.549,18.4354,Right SMA,0.606,0.452,1.3481,0.0275,Right SMA,2
+651,1994.158,1.292,34.382,Left Cerebellum,0.812,0.708,1.1578,0.0296,Left Cerebellum,2
+652,2328.931,1.197,40.154,Right SMA,0.865,0.803,1.0933,0.0816,Right SMA,2
+653,3169.975,1.101,54.6547,RightPrecentral Gyrus,0.936,0.899,1.0386,0.0323,Left Cerebellum,1
+654,1081.211,1.546,18.6416,Left Hippocampus,0.573,0.454,1.2618,0.0366,Left Hippocampus,1
+655,2156.358,1.242,37.1786,Right Cerebellum,0.844,0.758,1.1035,0.0326,Right Middle Cingulate Cortex,1
+656,1654.185,1.345,28.5204,Left Cerebellum,0.77,0.655,1.1523,0.0236,Right Middle Cingulate Cortex,1
+657,2922.24,1.106,50.3835,Right Middle Cingulate Cortex,0.941,0.894,1.0427,0.0166,Right Thalamus,1
+658,1837.852,1.297,31.6871,Right Middle Cingulate Cortex,0.801,0.703,1.1508,0.0256,Right Middle Cingulate Cortex,1
+659,1966.975,1.273,33.9134,Left Cerebellum,0.802,0.727,1.1163,0.038,Left Cerebellum,1
+660,1876.939,1.324,32.361,Right Postcentral Gyrus,0.777,0.676,1.1335,0.0207,Left Cerebellum,1
+661,1730.515,1.335,29.8365,Left Cerebellum,0.777,0.665,1.1697,0.0246,Left Cerebellum,1
+662,1766.825,1.334,30.4625,RightPrecentral Gyrus,0.78,0.666,1.1643,0.0302,Left Cerebellum,1
+663,2270.741,1.216,39.1507,Left Putamen,0.861,0.784,1.1005,0.0304,Right Cerebellum,1
+664,1157.868,1.515,19.9632,Left Putamen,0.61,0.485,1.3205,0.0255,Right Anterior Cingulate Cortex,1
+665,1670.941,1.354,28.8093,Right Cerebellum,0.76,0.646,1.1765,0.0395,Right Cerebellum,2
+666,2616.427,1.161,45.1108,Right Cerebellum,0.905,0.839,1.0676,0.0243,RightPrecentral Gyrus,2
+667,1704.672,1.349,29.3909,Right Temporal Pole,0.751,0.651,1.1581,0.0296,Right Temporal Pole,2
+668,2558.337,1.166,44.1093,Right Middle Cingulate Cortex,0.917,0.834,1.1018,0.0363,Right Mid Orbital Gyrus,2
+669,2555.863,1.159,44.0666,Right Hippocampus,0.9,0.841,1.0831,0.0171,Right Cerebellum,2
+670,2355.431,1.216,40.6109,Right SMA,0.866,0.784,1.1271,0.0334,Right Cerebellum,2
+671,2948.66,1.065,50.839,Left Amygdala,0.952,0.935,1.0033,0.0183,Left Cerebellum,2
+672,1058.276,1.529,18.2461,Left Hippocampus,0.638,0.472,1.3672,0.0323,Left Hippocampus,2
+673,1514.861,1.374,26.1183,Right SMA,0.741,0.626,1.1764,0.0299,Right Cerebellum,2
+674,1916.293,1.278,33.0395,RightPrecentral Gyrus,0.812,0.722,1.1091,0.0241,Right Cerebellum,2
+675,1393.385,1.444,24.0239,Left Cerebellum,0.7,0.556,1.2454,0.0549,Left Cerebellum,2
+676,2336.172,1.18,40.2788,Left Cerebellum,0.888,0.82,1.0796,0.029,Left Cerebellum,2
+677,1129.676,1.54,19.4772,Cerebellar Vermis,0.635,0.461,1.3708,0.0426,Left Cerebellum,2
+678,2981.194,1.14,51.3999,Right Middle Cingulate Cortex,0.933,0.86,1.072,0.0233,Left Cerebellum,1
+679,1940.322,1.293,33.4538,Right Cerebellum,0.804,0.707,1.1196,0.0348,Right Cerebellum,1
+680,3048.206,1.118,52.5553,Right Precuneus,0.927,0.882,1.0493,0.0218,Right Cerebellum,1
+681,1808.388,1.358,31.1791,Right Middle Cingulate Cortex,0.758,0.642,1.1953,0.0238,Left Superior Temporal Gyrus,1
+682,2298.943,1.214,39.6369,Left Superior Temporal Gyrus,0.873,0.786,1.0884,0.0212,Left Inferior Temporal Gyrus,1
+683,1186.603,1.486,20.4587,Left Middle Occipital Gyrus,0.665,0.514,1.2987,0.0343,Left Cerebellum,1
+684,1688.101,1.354,29.1052,Left Superior Temporal Gyrus,0.76,0.646,1.195,0.0343,Left Superior Temporal Gyrus,1
+685,2402.326,1.239,41.4194,Right Middle Cingulate Cortex,0.841,0.761,1.1132,0.0313,Right Cerebellum,1
+686,2049.107,1.27,35.3294,Left Thalamus,0.806,0.73,1.0837,0.0339,Right Lingual Gyrus,1
+687,1343.827,1.46,23.1694,Right SMA,0.669,0.54,1.2603,0.0249,Right SMA,1
+688,1151.632,1.515,19.8557,Right Thalamus,0.62,0.485,1.2817,0.0252,Right Thalamus,1
+689,2017.362,1.291,34.7821,Left Cerebellum,0.822,0.709,1.1527,0.024,Right ParaHippocampal Gyrus,1
+690,1692.421,1.341,29.1797,Left Thalamus,0.775,0.659,1.1532,0.0285,Left Cerebellum,1
+691,2002.578,1.264,34.5272,Right Lingual Gyrus,0.835,0.736,1.1295,0.02,Right Lingual Gyrus,1
+692,933.343,1.592,16.0921,Left Cerebellum,0.568,0.41,1.3133,0.0455,Left Cerebellum,1
+693,1039.432,1.55,17.9212,Left Cerebellum,0.598,0.453,1.3778,0.0273,Left Cerebellum,1
+694,1203.782,1.489,20.7549,Left Middle Occipital Gyrus,0.65,0.512,1.2524,0.0268,Left Middle Occipital Gyrus,1
+695,1655.84,1.361,28.549,Right Amygdala,0.758,0.639,1.171,0.0301,Right Middle Cingulate Cortex,1
+696,1509.289,1.399,26.0222,Left Thalamus,0.742,0.601,1.234,0.0264,Left Middle Occipital Gyrus,1
+697,1385.123,1.44,23.8814,Right Middle Cingulate Cortex,0.679,0.56,1.2137,0.0413,Right Middle Cingulate Cortex,1
+698,2195.825,1.228,37.8591,Right Superior Frontal Gyrus,0.846,0.772,1.0826,0.0218,Right Superior Frontal Gyrus,1
+699,1212.349,1.503,20.9026,Right Cerebellum,0.655,0.499,1.2932,0.0394,Right Cerebellum,1
+700,1667.217,1.351,28.7451,Left Inferior Temporal Gyrus,0.762,0.649,1.1857,0.0383,Left Inferior Temporal Gyrus,1
+701,1210.664,1.499,20.8735,Right Middle Cingulate Cortex,0.625,0.501,1.2483,0.033,Right Cerebellum,1
+702,1565.427,1.414,26.9901,Left Cerebellum,0.683,0.586,1.1721,0.0293,Left Cerebellum,1
+703,816.139,1.623,14.0714,Left Cerebellum,0.492,0.377,1.2772,0.0226,Right Middle Cingulate Cortex,1
+704,1406.176,1.425,24.2444,Left Cerebellum,0.709,0.575,1.2097,0.042,Right Middle Cingulate Cortex,1
+705,2744.324,1.165,47.3159,Right Temporal Pole,0.91,0.835,1.0936,0.0241,Right Hippocampus,1
+706,998.187,1.569,17.2101,Right Cerebellum,0.576,0.431,1.3586,0.0366,Right Cerebellum,1
+707,832.353,1.619,14.3509,Right Lingual Gyrus,0.542,0.382,1.408,0.0253,Right Temporal Pole,1
+708,1667.566,1.357,28.7511,Right Precuneus,0.772,0.643,1.1834,0.0238,Right Cerebellum,1
+709,834.523,1.621,14.3883,Left Cerebellum,0.529,0.381,1.4567,0.0275,Left Cerebellum,1
+710,1251.738,1.482,21.5817,Right Cerebellum,0.682,0.52,1.3171,0.0439,Right Cerebellum,1
+711,792.974,1.647,13.672,Right Olfactory cortex,0.496,0.354,1.4108,0.0288,Right Cerebellum,1
+712,1306.261,1.463,22.5217,Left ParaHippocampal Gyrus,0.67,0.537,1.2838,0.025,Left Cerebellum,1
+713,1439.847,1.419,24.8249,Right Middle Cingulate Cortex,0.712,0.581,1.2389,0.0334,Left Precuneus,1
+714,1808.194,1.305,31.1758,Right Cerebellum,0.808,0.695,1.1587,0.0285,Right Lingual Gyrus,1
+715,2223.753,1.227,38.3406,Right Inferior Temporal Gyrus,0.859,0.773,1.1054,0.0209,Left Hippocampus,2
+716,3482.344,1.05,60.0404,Left Lingual Gyrus,0.965,0.95,1.0184,0.0121,Left Cerebellum,2
+717,1731.051,1.347,29.8457,Left Precentral Gyrus,0.784,0.653,1.2013,0.0322,Right Middle Temporal Gyrus,2
+718,890.577,1.601,15.3548,Right Precuneus,0.536,0.399,1.3072,0.0392,Right Precuneus,2
+719,2010.501,1.272,34.6638,Right Lingual Gyrus,0.818,0.728,1.1112,0.0319,Cerebellar Vermis,2
+720,1912.061,1.329,32.9666,Left Cerebellum,0.788,0.671,1.1769,0.0625,Left Cerebellum,2
+721,1499.558,1.428,25.8544,RightPrecentral Gyrus,0.694,0.572,1.2048,0.0412,Left Cerebellum,2
+722,1222.025,1.48,21.0694,Right Cerebellum,0.656,0.52,1.2536,0.0281,Left ParaHippocampal Gyrus,2
+723,983.086,1.577,16.9498,Right Cerebellum,0.563,0.423,1.3043,0.0267,Right Cerebellum,2
+724,2546.758,1.176,43.9096,Left Hippocampus,0.897,0.824,1.0791,0.0227,Right Middle Cingulate Cortex,2
+725,1110.878,1.517,19.1531,Right Lingual Gyrus,0.623,0.483,1.3364,0.0368,Right Lingual Gyrus,2
+726,2379.715,1.165,41.0296,Right Cerebellum,0.895,0.835,1.0725,0.0191,Right Cerebellum,2
+727,1324.473,1.454,22.8357,Right Cerebellum,0.684,0.546,1.2514,0.0232,Right Thalamus,2
+728,1834.559,1.319,31.6303,Right Superior Temporal Gyrus,0.792,0.681,1.1663,0.0285,Left Middle Occipital Gyrus,2
+729,1091.808,1.545,18.8243,Right Superior Medial Gyrus,0.592,0.456,1.3324,0.0227,Right SMA,2
+730,1567.846,1.392,27.0318,Right Middle Cingulate Cortex,0.732,0.608,1.2313,0.0311,Right Middle Cingulate Cortex,2
+731,1195.925,1.506,20.6194,Right Cerebellum,0.624,0.494,1.2818,0.0285,Left Precuneus,2
+732,1116.122,1.519,19.2435,Right Mid Orbital Gyrus,0.605,0.481,1.2831,0.0301,Right Mid Orbital Gyrus,2
+733,1200.055,1.501,20.6906,Right Middle Cingulate Cortex,0.638,0.499,1.2891,0.0406,Left Cerebellum,2
+734,1550.153,1.394,26.7268,Right Cerebellum,0.737,0.606,1.2316,0.0351,Cerebellar Vermis,2
+735,2498.62,1.176,43.0796,Right Middle Cingulate Cortex,0.893,0.824,1.0867,0.0403,Right Middle Cingulate Cortex,2
+736,1228.307,1.501,21.1777,Right SMA,0.643,0.502,1.2417,0.0334,Right SMA,2
+737,851.501,1.613,14.681,Right Middle Cingulate Cortex,0.525,0.388,1.3573,0.0415,Right Middle Cingulate Cortex,2
+738,2128.852,1.248,36.7043,Right Middle Cingulate Cortex,0.829,0.752,1.1205,0.038,Right Cerebellum,2
+739,964.991,1.569,16.6378,Right Cerebellum,0.571,0.431,1.3108,0.032,Right Cerebellum,2
+740,832.853,1.63,14.3595,Right Middle Cingulate Cortex,0.503,0.373,1.3538,0.0211,Right ParaHippocampal Gyrus,2
+741,1224.94,1.492,21.1196,Right Cerebellum,0.618,0.508,1.2113,0.027,Left Cerebellum,2
+742,1498.86,1.415,25.8424,Left Cerebellum,0.721,0.585,1.2319,0.0282,Left Cerebellum,1
+743,1319.688,1.477,22.7532,Left Precuneus,0.642,0.523,1.1861,0.0317,Left Precentral Gyrus,1
+744,1290.874,1.48,22.2564,Left Middle Occipital Gyrus,0.645,0.52,1.2315,0.0322,Cerebellar Vermis,1
+745,2281.71,1.218,39.3398,Left Cerebellum,0.868,0.782,1.1048,0.0226,Left Cerebellum,1
+746,1325.115,1.453,22.8468,Right Putamen,0.681,0.547,1.245,0.0204,Right Middle Cingulate Cortex,1
+747,1853.593,1.317,31.9585,Right Lingual Gyrus,0.797,0.683,1.1438,0.0397,Right Lingual Gyrus,1
+748,1998.868,1.25,34.4632,Left Superior Temporal Gyrus,0.841,0.75,1.1308,0.0296,Left Superior Temporal Gyrus,1
+749,2052.813,1.281,35.3933,Left Precentral Gyrus,0.833,0.719,1.1617,0.0387,Left Cerebellum,1
+750,1512.901,1.416,26.0845,Right Pallidum,0.693,0.584,1.1911,0.0232,Left Caudate Nucleus,1
+751,3239.014,1.09,55.8451,Right Cerebellum,0.954,0.91,1.0507,0.0313,Left Cerebellum,1
+752,1559.994,1.389,26.8964,Right Cerebellum,0.721,0.611,1.1841,0.0209,Right Cerebellum,1
+753,967.721,1.578,16.6848,Right Superior Temporal Gyrus,0.537,0.423,1.2397,0.033,Right Superior Medial Gyrus,2
+754,2883.773,1.129,49.7202,Left Precentral Gyrus,0.917,0.871,1.0442,0.034,Right Cerebellum,2
+755,813.781,1.634,14.0307,Left Superior Medial Gyrus,0.52,0.367,1.4073,0.0252,Cerebellar Vermis,2
+756,1217.706,1.495,20.9949,Left Thalamus,0.649,0.506,1.2671,0.0458,Left Thalamus,2
+757,1606.144,1.384,27.6921,Right Lingual Gyrus,0.727,0.616,1.1809,0.0214,Right Middle Frontal Gyrus,2
+758,866.633,1.613,14.942,Left Precentral Gyrus,0.537,0.387,1.3737,0.0401,Left Precentral Gyrus,2
+759,2392.547,1.198,41.2508,Right Thalamus,0.869,0.802,1.0888,0.0209,Cerebellar Vermis,2
+760,2857.306,1.121,49.2639,Right Cerebellum,0.93,0.879,1.0605,0.0273,Right Cerebellum,2
+761,1212.004,1.497,20.8966,Right Cerebellum,0.642,0.503,1.2817,0.034,Right Cerebellum,2
+762,1721.96,1.341,29.689,Right Cerebellum,0.757,0.659,1.1686,0.0343,RightPrecentral Gyrus,2
+763,1410.174,1.438,24.3133,Right Cerebellum,0.705,0.563,1.2478,0.0485,Right Cerebellum,1
+764,904.576,1.6,15.5961,Right Middle Cingulate Cortex,0.569,0.4,1.3907,0.0596,Right Middle Cingulate Cortex,1
+765,1137.336,1.49,19.6092,Left Superior Occipital Gyrus,0.672,0.512,1.338,0.0339,Left Superior Occipital Gyrus,1
+766,1199.95,1.49,20.6888,Right Middle Temporal Gyrus,0.635,0.51,1.2696,0.0284,Right Precuneus,1
+767,1918.686,1.318,33.0808,Right Cerebellum,0.803,0.682,1.1839,0.0452,Right Cerebellum,1
+768,1080.032,1.519,18.6212,Left Middle Occipital Gyrus,0.679,0.489,1.3607,0.0342,Left Middle Occipital Gyrus,1
+769,910.712,1.61,15.7019,Left Calcarine Gyrus,0.583,0.406,1.4607,0.0305,Left Cerebellum,1
+770,1777.975,1.354,30.6547,Right Temporal Pole,0.776,0.646,1.1895,0.0355,Left Cerebellum,1
+771,1859.264,1.312,32.0563,Left Middle Occipital Gyrus,0.815,0.688,1.1756,0.0275,Left Middle Occipital Gyrus,1
+772,1068.381,1.538,18.4204,Right Middle Cingulate Cortex,0.621,0.464,1.335,0.0275,Right Middle Cingulate Cortex,1
+773,2121.067,1.242,36.5701,Right ParaHippocampal Gyrus,0.85,0.758,1.1304,0.023,Left Inferior Temporal Gyrus,1
+774,2952.092,1.111,50.8981,Left Cerebellum,0.95,0.889,1.0581,0.0136,Left Postcentral Gyrus,1
+775,2699.904,1.128,46.5501,Right Middle Cingulate Cortex,0.931,0.872,1.0727,0.0215,Right Middle Cingulate Cortex,1
+776,1548.048,1.393,26.6905,Right Precuneus,0.745,0.607,1.2095,0.049,Right Middle Cingulate Cortex,2
+777,1829.184,1.325,31.5377,Right Middle Cingulate Cortex,0.8,0.675,1.225,0.0406,Right Middle Cingulate Cortex,2
+778,2883.556,1.105,49.7165,Right Lingual Gyrus,0.933,0.895,1.0442,0.018,Cerebellar Vermis,2
+779,1266.639,1.47,21.8386,Left Cerebellum,0.719,0.544,1.3087,0.0387,Left Cerebellum,2
+780,1027.015,1.544,17.7072,Right Precuneus,0.611,0.456,1.2928,0.0374,Right Precuneus,2
+781,935.771,1.592,16.134,Left Middle Occipital Gyrus,0.569,0.41,1.368,0.0316,Left Cerebellum,2
+782,1197.126,1.507,20.6401,Right Middle Cingulate Cortex,0.656,0.493,1.3098,0.0328,Right Middle Cingulate Cortex,2
+783,2709.401,1.152,46.7138,Right SMA,0.905,0.848,1.0442,0.0185,Right SMA,2
+784,2122.68,1.218,36.5979,Right Middle Cingulate Cortex,0.854,0.782,1.0727,0.027,Right Cerebellum,2
+785,1374.091,1.443,23.6912,Right Precuneus,0.69,0.557,1.2487,0.0325,Right Cerebellum,2
+786,2071.935,1.287,35.723,Right Superior Temporal Gyrus,0.834,0.713,1.1916,0.0447,Right Cerebellum,2
+787,1230.676,1.473,21.2185,Right Putamen,0.65,0.527,1.2397,0.0243,Right Putamen,2
+788,2576.097,1.155,44.4155,Right Middle Temporal Gyrus,0.911,0.845,1.089,0.0412,Right Middle Temporal Gyrus,2
+789,1256.88,1.482,21.6703,Right Lingual Gyrus,0.665,0.519,1.2598,0.0265,Right Cerebellum,2
+790,1537.809,1.395,26.5139,Right Temporal Pole,0.742,0.605,1.2586,0.0401,Left Cerebellum,1
+791,2904.606,1.09,50.0794,Right Temporal Pole,0.938,0.91,1.0279,0.0131,Left Cerebellum,1
+792,1728.489,1.345,29.8015,Right Cerebellum,0.796,0.656,1.2086,0.032,Left Cerebellum,1
+793,3288.28,1.093,56.6945,Right Middle Temporal Gyrus,0.947,0.907,1.0559,0.0276,Left Cerebellum,1
+794,729.27,1.668,12.5736,Left Rolandic Operculum,0.463,0.333,1.375,0.032,Left Rolandic Operculum,2
+795,1153.047,1.526,19.8801,Left Precuneus,0.625,0.476,1.3437,0.0471,Left Cerebellum,2
+796,3107.896,1.101,53.5844,Left Middle Temporal Gyrus,0.935,0.899,1.044,0.0259,Left Middle Temporal Gyrus,2
+797,2461.611,1.167,42.4416,Left Precuneus,0.897,0.833,1.0733,0.0165,Right Precuneus,2
+798,2490.766,1.265,42.9442,Right Temporal Pole,0.876,0.739,1.2077,0.0622,Left Cerebellum,2
+799,958.366,1.562,16.5236,Left Superior Occipital Gyrus,0.581,0.438,1.3203,0.0326,Left Superior Occipital Gyrus,2
+800,1900.381,1.304,32.7652,Right Precuneus,0.792,0.696,1.1517,0.0372,Right Precuneus,2
+801,2152.479,1.275,37.1117,Right Middle Cingulate Cortex,0.822,0.725,1.1585,0.0323,Right Middle Cingulate Cortex,2
+802,1696.862,1.34,29.2562,Left Middle Occipital Gyrus,0.769,0.66,1.181,0.0177,Left Cerebellum,2
+803,1024.816,1.552,17.6692,Left Middle Temporal Gyrus,0.607,0.449,1.3879,0.0322,Right Postcentral Gyrus,2
+804,522.991,1.76,9.0171,Right Mid Orbital Gyrus,0.424,0.266,1.5558,0.0267,Right Mid Orbital Gyrus,2
+805,3138.356,1.12,54.1096,Right Inferior Temporal Gyrus,0.923,0.88,1.0431,0.0191,Cerebellar Vermis,1
+806,1461.172,1.441,25.1926,Right Lingual Gyrus,0.662,0.559,1.1361,0.023,Cerebellar Vermis,1
+807,1503.065,1.424,25.9149,Right Inferior Temporal Gyrus,0.706,0.576,1.2602,0.0394,Right Inferior Temporal Gyrus,1
+808,1951.025,1.322,33.6384,Right Precuneus,0.793,0.678,1.14,0.0351,Right Cerebellum,2
+809,1728.192,1.348,29.7964,Right Middle Cingulate Cortex,0.764,0.652,1.1957,0.0401,Right Middle Cingulate Cortex,2
+810,1365.694,1.434,23.5464,Left Cerebellum,0.703,0.566,1.2633,0.0285,Left Cerebellum,2
+811,2721.232,1.161,46.9178,Right Inferior Temporal Gyrus,0.912,0.839,1.0733,0.0644,Left Cerebellum,2
+812,1405.117,1.442,24.2261,Left Temporal Pole,0.652,0.558,1.1971,0.0322,Right Middle Occipital Gyrus,2
+813,2258.3,1.243,38.9362,Right Hippocampus,0.839,0.757,1.1128,0.0445,Right Cerebellum,2
+814,1397.902,1.439,24.1018,Right Thalamus,0.672,0.561,1.2005,0.0203,Right Temporal Pole,2
+815,1605.933,1.357,27.6885,Right Lingual Gyrus,0.754,0.643,1.1761,0.0352,Right Middle Cingulate Cortex,2
+816,3565.705,1.086,61.4777,Right Middle Cingulate Cortex,0.95,0.914,1.0483,0.0317,Right Cerebellum,2
+817,1750.051,1.386,30.1733,Right Cerebellum,0.773,0.615,1.2577,0.0375,Left Cerebellum,2
+818,3561.66,1.044,61.4079,Right Lingual Gyrus,0.979,0.956,1.0277,0.0121,Right Cerebellum,2
+819,2998.376,1.142,51.6961,Left Cerebellum,0.926,0.858,1.0855,0.0383,Right Cerebellum,2
+820,2297.806,1.201,39.6173,Left Superior Temporal Gyrus,0.883,0.799,1.116,0.027,Right Cerebellum,2
+821,1654.143,1.379,28.5197,Left Precuneus,0.749,0.621,1.1958,0.0381,Left Cerebellum,2
+822,1778.745,1.341,30.668,Right Cerebellum,0.765,0.659,1.1525,0.0304,Right Fusiform Gyrus,1
+823,1956.477,1.279,33.7324,Right Cerebellum,0.811,0.721,1.1172,0.0418,Right Middle Cingulate Cortex,1
+824,1015.623,1.577,17.5107,Right Lingual Gyrus,0.566,0.423,1.3152,0.0445,Right Lingual Gyrus,1
+825,837.562,1.614,14.4407,Right Lingual Gyrus,0.543,0.393,1.3422,0.0264,Right Mid Orbital Gyrus,1
+826,2171.441,1.232,37.4386,Right Lingual Gyrus,0.841,0.768,1.0934,0.0322,Right Middle Cingulate Cortex,1
